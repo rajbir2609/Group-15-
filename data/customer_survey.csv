@@ -1,0 +1,421 @@
+respondent_id,first_name,last_name,email,segment,age,city,purchase_frequency_per_month,monthly_beverage_spend_eur,price_sensitivity_1_10,preferred_channel,aware_pulsup,aware_matelibre,aware_voltfit,aware_rootandrise,lumen_purchase_intent_1_10
+1,Ida,Schwarz,ida.schwarz1@example.com,Students & Budget-Conscious,22,Hamburg,11.7,25.38,5.1,Gym & Office,0,1,1,0,8.5
+2,Lina,Lange,lina.lange2@example.com,Fitness & Gym-Goers,30,Hamburg,8.8,28.77,5.5,Gym & Office,0,0,1,0,7.1
+3,Sofia,Lange,sofia.lange3@example.com,Students & Budget-Conscious,19,Cologne,2.6,23.26,8.1,Gym & Office,1,1,0,0,6.6
+4,Max,Wolf,max.wolf4@example.com,On-the-go Commuters,41,Other Germany,6.4,9.08,5.4,Gym & Office,1,1,0,1,10
+5,Leon,Becker,leon.becker5@example.com,Fitness & Gym-Goers,20,Other Germany,7.4,14.42,6.5,DTC Online,1,1,1,0,6.9
+6,Paul,Braun,paul.braun6@example.com,Students & Budget-Conscious,20,Hamburg,3.1,15.15,9.2,Retail/Grocery,1,0,1,0,5.2
+7,Marie,Fischer,marie.fischer7@example.com,Students & Budget-Conscious,18,Other Germany,5.4,10.76,7.0,DTC Online,0,0,1,0,6.2
+8,Jonas,Neumann,jonas.neumann8@example.com,Urban Wellness Professionals,28,Berlin,8.9,23.74,2.2,Gym & Office,1,1,1,0,8.3
+9,Lea,Zimmermann,lea.zimmermann9@example.com,Students & Budget-Conscious,19,Frankfurt,6.7,17.63,8.6,Gym & Office,0,1,0,0,4.6
+10,Ben,Hoffmann,ben.hoffmann10@example.com,Students & Budget-Conscious,18,Other Germany,6.9,27.02,6.8,Retail/Grocery,1,1,0,0,3.7
+11,Leon,Krueger,leon.krueger11@example.com,Students & Budget-Conscious,23,Other Germany,6.1,23.7,8.6,Retail/Grocery,1,1,0,0,4.7
+12,Nora,Fischer,nora.fischer12@example.com,On-the-go Commuters,30,Berlin,5.2,30.05,6.3,Retail/Grocery,0,0,0,1,7.8
+13,Nora,Wolf,nora.wolf13@example.com,Students & Budget-Conscious,23,Frankfurt,4.1,14.75,8.8,Retail/Grocery,1,1,1,0,3.8
+14,Ida,Wagner,ida.wagner14@example.com,Students & Budget-Conscious,21,Other Germany,5.2,14.35,8.8,Gym & Office,0,1,1,0,8.4
+15,Leon,Klein,leon.klein15@example.com,Fitness & Gym-Goers,34,Berlin,5.6,22.85,6.1,DTC Online,0,1,1,1,6.7
+16,Sofia,Schmidt,sofia.schmidt16@example.com,Urban Wellness Professionals,33,Cologne,7.9,21.48,4.6,Retail/Grocery,0,1,0,1,9.2
+17,Lea,Peters,lea.peters17@example.com,Urban Wellness Professionals,25,Berlin,7.1,15.4,4.7,DTC Online,1,0,0,1,8.5
+18,Paul,Peters,paul.peters18@example.com,Urban Wellness Professionals,32,Other Germany,5.4,19.18,4.5,Gym & Office,0,0,0,0,8.5
+19,Jonas,Koch,jonas.koch19@example.com,Students & Budget-Conscious,23,Other Germany,8.6,26.55,7.8,Gym & Office,1,0,0,0,7.4
+20,Emma,Schwarz,emma.schwarz20@example.com,On-the-go Commuters,32,Munich,10.1,26.03,4.8,DTC Online,1,0,0,0,7.2
+21,Sofia,Schmidt,sofia.schmidt21@example.com,Students & Budget-Conscious,20,Berlin,5.8,14.56,9.1,DTC Online,1,1,0,0,3.5
+22,Leon,Schulz,leon.schulz22@example.com,Fitness & Gym-Goers,18,Cologne,7.0,17.96,5.2,Gym & Office,0,0,1,0,6.9
+23,Leon,Becker,leon.becker23@example.com,Urban Wellness Professionals,37,Other Germany,9.7,14.89,4.2,DTC Online,0,1,0,1,10
+24,Marie,Braun,marie.braun24@example.com,Students & Budget-Conscious,24,Frankfurt,7.0,8.69,6.2,Gym & Office,1,0,1,0,6.3
+25,Ben,Klein,ben.klein25@example.com,Fitness & Gym-Goers,20,Other Germany,7.5,24.6,5.6,Gym & Office,0,1,1,0,8.0
+26,Clara,Koch,clara.koch26@example.com,Students & Budget-Conscious,23,Hamburg,6.8,24.42,9.2,Gym & Office,1,1,0,0,2.8
+27,Finn,Braun,finn.braun27@example.com,Urban Wellness Professionals,32,Other Germany,8.4,14.17,4.5,DTC Online,0,1,0,0,8.7
+28,Felix,Braun,felix.braun28@example.com,Urban Wellness Professionals,39,Other Germany,8.8,16.61,3.4,DTC Online,0,1,1,1,7.8
+29,Mia,Becker,mia.becker29@example.com,Students & Budget-Conscious,20,Other Germany,6.2,18.21,8.7,Retail/Grocery,1,1,1,0,5.8
+30,Ida,Schwarz,ida.schwarz30@example.com,Urban Wellness Professionals,25,Other Germany,9.2,24.81,1,Gym & Office,0,0,0,0,10
+31,Jonas,Krueger,jonas.krueger31@example.com,On-the-go Commuters,40,Munich,5.7,15.29,7.2,Retail/Grocery,1,1,0,1,4.6
+32,Jonas,Becker,jonas.becker32@example.com,Urban Wellness Professionals,25,Berlin,6.0,21.92,4.1,DTC Online,1,0,1,0,10
+33,Leon,Schmidt,leon.schmidt33@example.com,Urban Wellness Professionals,27,Cologne,6.6,15.28,4.7,Retail/Grocery,0,0,1,1,6.9
+34,Finn,Schulz,finn.schulz34@example.com,Students & Budget-Conscious,19,Cologne,5.8,12.64,7.0,Gym & Office,1,0,1,0,7.5
+35,Clara,Schwarz,clara.schwarz35@example.com,Fitness & Gym-Goers,27,Frankfurt,5.4,9.71,6.3,Gym & Office,0,0,1,0,5.9
+36,Paul,Peters,paul.peters36@example.com,On-the-go Commuters,43,Other Germany,7.4,15.66,4.9,Gym & Office,0,1,0,0,7.3
+37,Noah,Lange,noah.lange37@example.com,On-the-go Commuters,47,Berlin,5.2,20.87,7.0,Retail/Grocery,1,0,1,0,4.4
+38,Lina,Koch,lina.koch38@example.com,On-the-go Commuters,27,Munich,3.4,16.93,6.0,Retail/Grocery,1,1,0,0,5.5
+39,Sofia,Peters,sofia.peters39@example.com,Students & Budget-Conscious,22,Other Germany,4.3,22.22,10,Retail/Grocery,1,0,0,0,5.4
+40,Clara,Koch,clara.koch40@example.com,On-the-go Commuters,27,Munich,8.8,13.16,5.4,Retail/Grocery,0,1,0,0,7.4
+41,Marie,Wagner,marie.wagner41@example.com,Students & Budget-Conscious,18,Other Germany,0.5,15.5,7.9,DTC Online,1,0,0,0,4.6
+42,Paul,Hoffmann,paul.hoffmann42@example.com,On-the-go Commuters,31,Munich,9.3,21.86,5.3,Retail/Grocery,1,0,0,0,7.4
+43,Felix,Krueger,felix.krueger43@example.com,Students & Budget-Conscious,18,Frankfurt,5.9,31.46,7.2,Retail/Grocery,1,1,1,0,7.0
+44,Elias,Fischer,elias.fischer44@example.com,Students & Budget-Conscious,19,Other Germany,4.6,16.56,8.7,Gym & Office,1,1,0,0,2.9
+45,Max,Schmidt,max.schmidt45@example.com,On-the-go Commuters,38,Munich,4.7,25.72,4.4,Retail/Grocery,1,1,1,1,7.3
+46,Felix,Klein,felix.klein46@example.com,Students & Budget-Conscious,21,Other Germany,4.8,12.97,9.0,Retail/Grocery,1,1,0,0,7.7
+47,Leon,Koch,leon.koch47@example.com,On-the-go Commuters,31,Hamburg,3.4,23.05,4.3,Retail/Grocery,1,0,0,0,7.2
+48,Clara,Richter,clara.richter48@example.com,Students & Budget-Conscious,23,Munich,5.7,20.4,6.5,Retail/Grocery,1,1,1,0,6.5
+49,Anna,Richter,anna.richter49@example.com,On-the-go Commuters,43,Frankfurt,5.4,25.69,4.0,Retail/Grocery,1,0,0,0,9.5
+50,Marie,Wolf,marie.wolf50@example.com,On-the-go Commuters,40,Hamburg,3.1,16.84,4.8,Retail/Grocery,0,0,0,0,9.4
+51,Clara,Lange,clara.lange51@example.com,Urban Wellness Professionals,35,Berlin,7.2,27.65,3.5,DTC Online,0,0,1,1,8.5
+52,Elias,Braun,elias.braun52@example.com,Students & Budget-Conscious,20,Frankfurt,2.9,23.58,9.1,Gym & Office,1,1,1,0,5.1
+53,Lina,Wagner,lina.wagner53@example.com,Students & Budget-Conscious,24,Other Germany,4.3,22.05,7.5,DTC Online,1,1,0,0,5.2
+54,Nora,Becker,nora.becker54@example.com,Students & Budget-Conscious,19,Other Germany,3.4,17.37,8.7,Gym & Office,1,0,1,0,3.5
+55,Lina,Peters,lina.peters55@example.com,Fitness & Gym-Goers,33,Other Germany,7.0,22.45,4.3,DTC Online,0,0,1,0,7.2
+56,Felix,Schwarz,felix.schwarz56@example.com,On-the-go Commuters,38,Berlin,8.6,28.82,4.6,Retail/Grocery,1,0,0,0,3.7
+57,Lina,Weber,lina.weber57@example.com,On-the-go Commuters,39,Berlin,4.1,17.92,5.8,Retail/Grocery,0,1,0,0,6.1
+58,Clara,Wolf,clara.wolf58@example.com,On-the-go Commuters,46,Other Germany,4.0,14.79,4.1,DTC Online,1,0,1,0,8.0
+59,Finn,Braun,finn.braun59@example.com,Students & Budget-Conscious,18,Other Germany,6.2,21.19,8.6,Retail/Grocery,1,1,1,0,5.3
+60,Mia,Schwarz,mia.schwarz60@example.com,Fitness & Gym-Goers,23,Berlin,5.6,24.13,4.8,Gym & Office,1,1,1,0,7.9
+61,Mia,Braun,mia.braun61@example.com,On-the-go Commuters,46,Frankfurt,2.2,9.9,9.6,DTC Online,1,1,0,0,8.2
+62,Ida,Klein,ida.klein62@example.com,Students & Budget-Conscious,21,Frankfurt,4.4,23.97,9.1,Retail/Grocery,1,0,0,1,4.4
+63,Elias,Koch,elias.koch63@example.com,Fitness & Gym-Goers,33,Other Germany,5.5,16.1,4.6,Retail/Grocery,0,0,0,0,6.9
+64,Lina,Schmidt,lina.schmidt64@example.com,On-the-go Commuters,45,Berlin,5.4,26.49,4.1,DTC Online,1,1,0,0,8.5
+65,Sofia,Krueger,sofia.krueger65@example.com,Urban Wellness Professionals,33,Other Germany,6.4,29.0,4.6,DTC Online,1,0,1,0,7.1
+66,Leon,Neumann,leon.neumann66@example.com,Fitness & Gym-Goers,30,Other Germany,6.8,18.48,6.6,Gym & Office,0,1,1,0,8.0
+67,Max,Peters,max.peters67@example.com,Urban Wellness Professionals,32,Cologne,10.1,19.11,2.7,DTC Online,0,0,1,1,8.5
+68,Ben,Peters,ben.peters68@example.com,Students & Budget-Conscious,21,Berlin,6.2,10.8,8.9,Gym & Office,1,0,1,0,2.7
+69,Sofia,Schmidt,sofia.schmidt69@example.com,Students & Budget-Conscious,21,Other Germany,3.8,13.08,7.7,Retail/Grocery,0,1,0,0,6.0
+70,Finn,Braun,finn.braun70@example.com,Students & Budget-Conscious,20,Munich,5.4,5.46,8.8,Retail/Grocery,1,0,0,0,1.9
+71,Emma,Koch,emma.koch71@example.com,On-the-go Commuters,42,Munich,7.1,20.39,5.7,Gym & Office,1,1,1,1,6.8
+72,Paul,Koch,paul.koch72@example.com,Fitness & Gym-Goers,18,Berlin,6.2,20.28,5.3,Gym & Office,1,1,1,0,8.8
+73,Max,Schmidt,max.schmidt73@example.com,Fitness & Gym-Goers,32,Cologne,2.1,18.11,5.1,Retail/Grocery,1,0,0,0,7.1
+74,Mia,Fischer,mia.fischer74@example.com,Students & Budget-Conscious,23,Other Germany,6.2,23.11,7.7,DTC Online,1,1,0,0,7.1
+75,Finn,Peters,finn.peters75@example.com,Urban Wellness Professionals,38,Berlin,6.0,19.26,3.3,DTC Online,0,1,1,1,10
+76,Felix,Fischer,felix.fischer76@example.com,Fitness & Gym-Goers,29,Other Germany,6.5,10.58,6.0,Gym & Office,1,1,0,0,8.6
+77,Jonas,Schmidt,jonas.schmidt77@example.com,Fitness & Gym-Goers,31,Hamburg,4.9,13.22,7.2,Gym & Office,0,1,1,0,8.5
+78,Jonas,Peters,jonas.peters78@example.com,Urban Wellness Professionals,33,Frankfurt,5.5,13.23,5.9,DTC Online,0,0,1,1,6.9
+79,Paul,Weber,paul.weber79@example.com,Fitness & Gym-Goers,27,Other Germany,7.1,18.63,5.8,Retail/Grocery,0,1,1,0,7.2
+80,Marie,Fischer,marie.fischer80@example.com,Urban Wellness Professionals,30,Hamburg,6.2,22.31,4.1,DTC Online,0,1,0,1,8.9
+81,Jonas,Wagner,jonas.wagner81@example.com,Students & Budget-Conscious,22,Berlin,8.1,8.49,7.6,Retail/Grocery,1,0,1,0,5.8
+82,Elias,Wolf,elias.wolf82@example.com,Students & Budget-Conscious,19,Other Germany,6.1,12.4,9.1,Retail/Grocery,1,0,0,0,5.1
+83,Lina,Fischer,lina.fischer83@example.com,Urban Wellness Professionals,26,Cologne,4.7,13.11,4.6,DTC Online,1,1,1,0,8.0
+84,Finn,Koch,finn.koch84@example.com,Fitness & Gym-Goers,29,Berlin,7.6,32.66,4.3,Retail/Grocery,1,0,1,0,10
+85,Paul,Neumann,paul.neumann85@example.com,Urban Wellness Professionals,31,Other Germany,3.7,25.27,3.2,DTC Online,1,0,0,0,8.9
+86,Lina,Braun,lina.braun86@example.com,Students & Budget-Conscious,24,Other Germany,1.8,7.37,6.9,Retail/Grocery,0,1,0,0,2.6
+87,Paul,Lange,paul.lange87@example.com,Fitness & Gym-Goers,26,Frankfurt,6.6,24.08,6.8,Gym & Office,0,0,1,0,7.5
+88,Ida,Schulz,ida.schulz88@example.com,Urban Wellness Professionals,26,Cologne,9.6,25.19,2.9,DTC Online,0,1,0,1,10
+89,Lina,Lange,lina.lange89@example.com,Students & Budget-Conscious,19,Other Germany,5.2,14.51,7.2,Retail/Grocery,1,0,0,0,6.8
+90,Clara,Klein,clara.klein90@example.com,Students & Budget-Conscious,18,Frankfurt,8.9,24.75,8.0,Retail/Grocery,1,0,0,0,4.9
+91,Mia,Klein,mia.klein91@example.com,Fitness & Gym-Goers,30,Berlin,6.1,21.19,3.8,Retail/Grocery,0,0,0,1,9.6
+92,Paul,Klein,paul.klein92@example.com,Fitness & Gym-Goers,34,Hamburg,7.3,26.29,5.9,Gym & Office,1,1,0,1,7.1
+93,Lukas,Wolf,lukas.wolf93@example.com,On-the-go Commuters,48,Other Germany,3.4,14.94,7.3,Retail/Grocery,1,0,0,0,5.4
+94,Ben,Braun,ben.braun94@example.com,Students & Budget-Conscious,20,Other Germany,3.7,20.1,6.3,Retail/Grocery,0,0,0,0,5.3
+95,Elias,Schwarz,elias.schwarz95@example.com,Fitness & Gym-Goers,32,Cologne,6.9,24.36,4.1,Retail/Grocery,0,1,1,0,9.6
+96,Finn,Klein,finn.klein96@example.com,On-the-go Commuters,47,Other Germany,6.2,11.78,6.7,Gym & Office,1,0,0,0,6.8
+97,Nora,Neumann,nora.neumann97@example.com,On-the-go Commuters,38,Berlin,12.2,18.03,6.4,Gym & Office,0,0,0,1,6.7
+98,Lea,Krueger,lea.krueger98@example.com,Students & Budget-Conscious,24,Cologne,5.1,20.99,7.9,Gym & Office,1,0,0,0,6.0
+99,Ben,Zimmermann,ben.zimmermann99@example.com,Students & Budget-Conscious,20,Berlin,3.5,29.02,6.8,Retail/Grocery,1,0,0,0,7.2
+100,Ben,Zimmermann,ben.zimmermann100@example.com,Students & Budget-Conscious,18,Other Germany,7.4,10.21,8.7,Gym & Office,1,0,0,1,4.8
+101,Paul,Richter,paul.richter101@example.com,On-the-go Commuters,26,Other Germany,4.1,23.66,6.0,DTC Online,1,0,0,1,7.2
+102,Noah,Braun,noah.braun102@example.com,Urban Wellness Professionals,35,Other Germany,6.2,22.33,5.0,Retail/Grocery,0,1,1,0,9.5
+103,Nora,Schwarz,nora.schwarz103@example.com,On-the-go Commuters,35,Other Germany,5.0,17.15,7.6,Retail/Grocery,1,0,0,0,8.2
+104,Clara,Braun,clara.braun104@example.com,Students & Budget-Conscious,20,Cologne,3.3,22.33,9.0,Retail/Grocery,0,1,0,0,4.5
+105,Noah,Peters,noah.peters105@example.com,Students & Budget-Conscious,22,Other Germany,6.0,14.72,7.8,Retail/Grocery,1,1,0,0,6.6
+106,Jonas,Richter,jonas.richter106@example.com,Fitness & Gym-Goers,29,Other Germany,4.3,30.77,4.0,Gym & Office,1,0,1,1,9.6
+107,Lukas,Becker,lukas.becker107@example.com,On-the-go Commuters,46,Other Germany,6.4,12.72,8.1,Retail/Grocery,1,0,0,0,6.5
+108,Clara,Wolf,clara.wolf108@example.com,Fitness & Gym-Goers,22,Frankfurt,5.3,28.54,4.9,Gym & Office,1,0,1,1,9.9
+109,Felix,Schulz,felix.schulz109@example.com,Urban Wellness Professionals,34,Other Germany,9.1,8.32,5.3,DTC Online,1,0,0,1,9.6
+110,Elias,Klein,elias.klein110@example.com,Urban Wellness Professionals,27,Frankfurt,4.1,29.09,4.7,Retail/Grocery,0,1,1,1,8.0
+111,Ida,Neumann,ida.neumann111@example.com,On-the-go Commuters,25,Hamburg,9.0,33.18,2.4,Retail/Grocery,1,0,0,0,10
+112,Marie,Fischer,marie.fischer112@example.com,Urban Wellness Professionals,27,Berlin,9.1,18.87,1.6,Retail/Grocery,0,1,0,1,10
+113,Nora,Becker,nora.becker113@example.com,On-the-go Commuters,26,Other Germany,7.3,23.95,5.7,Gym & Office,1,1,1,1,6.5
+114,Elias,Peters,elias.peters114@example.com,On-the-go Commuters,33,Berlin,6.8,10.87,7.5,Retail/Grocery,1,0,1,0,4.7
+115,Lukas,Richter,lukas.richter115@example.com,Students & Budget-Conscious,24,Berlin,2.9,11.2,6.7,Retail/Grocery,1,1,0,0,7.3
+116,Lina,Fischer,lina.fischer116@example.com,On-the-go Commuters,46,Hamburg,5.1,14.24,5.7,Retail/Grocery,1,0,1,0,7.7
+117,Paul,Lange,paul.lange117@example.com,Urban Wellness Professionals,37,Berlin,7.1,20.01,2.4,DTC Online,1,1,1,0,10
+118,Marie,Wolf,marie.wolf118@example.com,Students & Budget-Conscious,24,Other Germany,5.9,23.11,8.3,Gym & Office,1,1,0,0,5.2
+119,Lukas,Klein,lukas.klein119@example.com,Students & Budget-Conscious,22,Hamburg,6.5,16.75,5.3,Retail/Grocery,1,1,0,0,5.6
+120,Lukas,Peters,lukas.peters120@example.com,Fitness & Gym-Goers,29,Berlin,8.3,25.82,6.1,Retail/Grocery,1,0,1,1,8.3
+121,Marie,Peters,marie.peters121@example.com,On-the-go Commuters,37,Hamburg,3.7,19.05,8.0,Retail/Grocery,1,1,1,0,7.2
+122,Max,Wolf,max.wolf122@example.com,Urban Wellness Professionals,29,Munich,11.4,19.82,5.6,DTC Online,0,0,0,1,7.2
+123,Finn,Zimmermann,finn.zimmermann123@example.com,On-the-go Commuters,36,Hamburg,5.2,20.99,4.0,Retail/Grocery,1,0,0,0,5.6
+124,Noah,Lange,noah.lange124@example.com,Fitness & Gym-Goers,19,Frankfurt,4.8,23.82,4.3,Retail/Grocery,1,0,1,1,7.9
+125,Emma,Zimmermann,emma.zimmermann125@example.com,Urban Wellness Professionals,29,Hamburg,8.1,14.15,1.7,Retail/Grocery,0,0,0,0,10
+126,Noah,Braun,noah.braun126@example.com,Urban Wellness Professionals,37,Munich,5.8,15.41,4.5,Retail/Grocery,0,0,0,1,10
+127,Elias,Klein,elias.klein127@example.com,Students & Budget-Conscious,22,Munich,2.4,10.8,7.4,DTC Online,0,0,1,0,5.9
+128,Lea,Klein,lea.klein128@example.com,Urban Wellness Professionals,37,Other Germany,7.0,30.74,6.6,Retail/Grocery,0,1,0,1,9.5
+129,Max,Koch,max.koch129@example.com,Fitness & Gym-Goers,26,Berlin,9.2,11.77,5.6,Gym & Office,1,0,1,0,7.4
+130,Noah,Zimmermann,noah.zimmermann130@example.com,Students & Budget-Conscious,22,Other Germany,2.4,10.3,6.5,Gym & Office,1,1,1,0,6.6
+131,Lukas,Hoffmann,lukas.hoffmann131@example.com,Fitness & Gym-Goers,25,Frankfurt,9.2,24.87,3.3,DTC Online,0,1,1,0,9.1
+132,Ida,Wagner,ida.wagner132@example.com,Students & Budget-Conscious,18,Berlin,3.7,7.02,9.1,Retail/Grocery,0,1,0,0,5.3
+133,Lina,Richter,lina.richter133@example.com,On-the-go Commuters,35,Berlin,5.7,16.99,6.0,DTC Online,1,0,0,0,7.8
+134,Finn,Hoffmann,finn.hoffmann134@example.com,Urban Wellness Professionals,35,Berlin,6.2,21.65,5.0,DTC Online,0,1,1,1,8.7
+135,Ben,Schmidt,ben.schmidt135@example.com,Fitness & Gym-Goers,26,Other Germany,4.7,26.19,4.8,DTC Online,0,0,1,0,10
+136,Ben,Becker,ben.becker136@example.com,On-the-go Commuters,36,Other Germany,7.0,27.35,4.6,DTC Online,0,0,0,0,7.4
+137,Nora,Neumann,nora.neumann137@example.com,Fitness & Gym-Goers,20,Frankfurt,6.7,25.2,7.0,Retail/Grocery,0,1,1,0,7.7
+138,Felix,Fischer,felix.fischer138@example.com,Students & Budget-Conscious,19,Other Germany,3.2,18.26,9.1,Retail/Grocery,1,0,0,0,5.0
+139,Emma,Fischer,emma.fischer139@example.com,Students & Budget-Conscious,20,Other Germany,5.0,32.97,9.1,Gym & Office,1,0,1,0,6.6
+140,Clara,Braun,clara.braun140@example.com,Fitness & Gym-Goers,31,Hamburg,2.1,11.19,7.4,Retail/Grocery,1,0,1,1,8.4
+141,Ben,Weber,ben.weber141@example.com,Urban Wellness Professionals,29,Other Germany,1.7,13.66,3.6,DTC Online,1,1,1,1,10
+142,Lukas,Zimmermann,lukas.zimmermann142@example.com,Students & Budget-Conscious,23,Other Germany,3.0,23.43,5.7,Retail/Grocery,1,1,0,0,6.1
+143,Ben,Peters,ben.peters143@example.com,Students & Budget-Conscious,18,Hamburg,8.7,22.76,8.5,Retail/Grocery,1,0,1,0,5.7
+144,Lea,Lange,lea.lange144@example.com,Fitness & Gym-Goers,28,Munich,7.8,33.58,5.7,DTC Online,0,0,1,0,9.1
+145,Nora,Wolf,nora.wolf145@example.com,On-the-go Commuters,45,Other Germany,4.3,18.98,5.6,Retail/Grocery,1,1,0,1,7.8
+146,Jonas,Peters,jonas.peters146@example.com,Urban Wellness Professionals,26,Frankfurt,7.5,24.75,2.2,DTC Online,0,1,1,0,10
+147,Max,Schmidt,max.schmidt147@example.com,Students & Budget-Conscious,21,Other Germany,3.8,16.67,8.6,DTC Online,1,0,1,0,2.6
+148,Finn,Krueger,finn.krueger148@example.com,Students & Budget-Conscious,19,Other Germany,2.6,12.69,9.7,Retail/Grocery,1,1,0,0,2.9
+149,Felix,Braun,felix.braun149@example.com,Urban Wellness Professionals,36,Cologne,9.0,7.63,6.5,Gym & Office,1,1,0,1,8.4
+150,Ida,Zimmermann,ida.zimmermann150@example.com,Students & Budget-Conscious,20,Frankfurt,6.4,18.06,7.8,Retail/Grocery,1,0,1,0,7.5
+151,Paul,Hoffmann,paul.hoffmann151@example.com,Urban Wellness Professionals,40,Cologne,8.7,26.77,4.5,Gym & Office,0,0,0,1,10
+152,Jonas,Becker,jonas.becker152@example.com,On-the-go Commuters,26,Other Germany,4.5,18.68,6.5,Retail/Grocery,1,0,0,0,6.2
+153,Leon,Peters,leon.peters153@example.com,Urban Wellness Professionals,40,Berlin,7.5,22.09,3.3,DTC Online,0,0,1,0,8.0
+154,Ben,Schulz,ben.schulz154@example.com,Students & Budget-Conscious,18,Frankfurt,4.3,11.26,7.3,Retail/Grocery,0,1,1,0,7.9
+155,Lukas,Fischer,lukas.fischer155@example.com,Students & Budget-Conscious,24,Other Germany,6.6,9.76,7.0,DTC Online,1,0,0,0,6.3
+156,Lukas,Koch,lukas.koch156@example.com,On-the-go Commuters,28,Other Germany,9.6,23.94,6.6,Retail/Grocery,1,0,0,0,5.2
+157,Emma,Becker,emma.becker157@example.com,Students & Budget-Conscious,24,Munich,1.8,14.87,8.0,Retail/Grocery,1,0,0,0,5.8
+158,Mia,Lange,mia.lange158@example.com,Urban Wellness Professionals,29,Other Germany,5.4,26.67,3.5,DTC Online,0,0,0,0,10
+159,Lina,Krueger,lina.krueger159@example.com,Urban Wellness Professionals,33,Other Germany,9.7,20.09,3.7,Retail/Grocery,1,0,1,1,10
+160,Lea,Schwarz,lea.schwarz160@example.com,Students & Budget-Conscious,20,Berlin,6.0,22.37,7.7,Retail/Grocery,1,1,1,0,5.6
+161,Mia,Neumann,mia.neumann161@example.com,Fitness & Gym-Goers,31,Berlin,6.2,25.25,3.8,Gym & Office,1,0,1,0,6.0
+162,Noah,Schwarz,noah.schwarz162@example.com,On-the-go Commuters,32,Frankfurt,7.1,18.51,6.5,Retail/Grocery,1,1,0,0,7.2
+163,Max,Schulz,max.schulz163@example.com,On-the-go Commuters,48,Other Germany,6.6,26.6,5.3,Gym & Office,1,0,0,0,7.2
+164,Lea,Klein,lea.klein164@example.com,On-the-go Commuters,45,Other Germany,11.1,23.14,4.6,Gym & Office,0,1,0,0,8.8
+165,Sofia,Schwarz,sofia.schwarz165@example.com,Fitness & Gym-Goers,25,Munich,10.7,29.49,3.5,Gym & Office,0,1,1,0,10
+166,Mia,Zimmermann,mia.zimmermann166@example.com,Students & Budget-Conscious,24,Munich,4.2,15.73,7.7,Retail/Grocery,1,1,0,0,6.7
+167,Jonas,Peters,jonas.peters167@example.com,Fitness & Gym-Goers,35,Cologne,5.8,12.4,8.8,Retail/Grocery,0,1,1,0,3.3
+168,Clara,Wolf,clara.wolf168@example.com,Students & Budget-Conscious,22,Berlin,3.9,19.61,9.3,Retail/Grocery,1,0,0,0,4.7
+169,Anna,Krueger,anna.krueger169@example.com,Urban Wellness Professionals,29,Hamburg,8.0,24.45,4.6,Gym & Office,1,1,1,1,8.9
+170,Lina,Wolf,lina.wolf170@example.com,Urban Wellness Professionals,40,Berlin,7.3,22.23,3.9,DTC Online,1,0,0,0,9.1
+171,Jonas,Braun,jonas.braun171@example.com,Urban Wellness Professionals,30,Hamburg,9.2,26.26,3.7,DTC Online,1,0,1,1,10
+172,Mia,Wagner,mia.wagner172@example.com,Urban Wellness Professionals,31,Munich,4.6,19.76,4.0,DTC Online,0,0,0,1,10
+173,Paul,Neumann,paul.neumann173@example.com,Urban Wellness Professionals,37,Frankfurt,4.5,25.36,4.5,DTC Online,0,1,1,1,6.9
+174,Lea,Lange,lea.lange174@example.com,Urban Wellness Professionals,30,Hamburg,9.6,19.31,2.2,DTC Online,0,0,0,1,9.8
+175,Marie,Braun,marie.braun175@example.com,Students & Budget-Conscious,20,Berlin,3.2,26.05,6.1,Retail/Grocery,1,0,0,0,6.0
+176,Mia,Weber,mia.weber176@example.com,Urban Wellness Professionals,39,Cologne,5.7,26.87,3.8,DTC Online,0,0,0,1,9.7
+177,Leon,Neumann,leon.neumann177@example.com,Urban Wellness Professionals,28,Munich,7.4,26.45,1.4,DTC Online,0,0,0,1,9.3
+178,Paul,Fischer,paul.fischer178@example.com,On-the-go Commuters,26,Cologne,10.3,25.77,2.1,Gym & Office,1,1,0,0,8.0
+179,Emma,Schmidt,emma.schmidt179@example.com,Students & Budget-Conscious,19,Other Germany,4.6,15.77,6.6,Gym & Office,1,0,0,0,5.7
+180,Jonas,Schmidt,jonas.schmidt180@example.com,On-the-go Commuters,28,Berlin,4.5,24.37,8.6,Retail/Grocery,0,0,0,0,7.3
+181,Clara,Braun,clara.braun181@example.com,Urban Wellness Professionals,33,Other Germany,7.8,20.88,5.6,Retail/Grocery,0,0,1,1,6.9
+182,Lina,Neumann,lina.neumann182@example.com,Fitness & Gym-Goers,20,Other Germany,2.7,5.73,6.9,DTC Online,1,0,1,0,9.4
+183,Marie,Schmidt,marie.schmidt183@example.com,Students & Budget-Conscious,24,Cologne,4.9,14.98,9.7,Gym & Office,1,1,0,0,4.1
+184,Elias,Hoffmann,elias.hoffmann184@example.com,On-the-go Commuters,29,Other Germany,2.1,21.66,7.9,Retail/Grocery,1,0,1,0,6.3
+185,Mia,Wagner,mia.wagner185@example.com,Fitness & Gym-Goers,25,Hamburg,5.5,21.09,7.0,Retail/Grocery,1,0,0,0,7.8
+186,Ben,Schwarz,ben.schwarz186@example.com,Urban Wellness Professionals,29,Cologne,8.2,24.88,5.5,DTC Online,1,0,0,0,9.4
+187,Anna,Hoffmann,anna.hoffmann187@example.com,Fitness & Gym-Goers,20,Frankfurt,8.4,20.58,3.6,Gym & Office,0,0,1,1,8.4
+188,Jonas,Wolf,jonas.wolf188@example.com,Fitness & Gym-Goers,30,Hamburg,4.6,17.09,5.8,Retail/Grocery,0,1,0,1,6.8
+189,Max,Lange,max.lange189@example.com,On-the-go Commuters,34,Munich,7.6,12.52,6.5,Gym & Office,1,1,1,0,4.3
+190,Marie,Becker,marie.becker190@example.com,Students & Budget-Conscious,18,Other Germany,8.4,12.83,6.1,Retail/Grocery,1,0,1,0,7.4
+191,Lukas,Schwarz,lukas.schwarz191@example.com,Students & Budget-Conscious,19,Berlin,5.8,13.1,6.2,DTC Online,1,1,0,0,6.5
+192,Lea,Peters,lea.peters192@example.com,Urban Wellness Professionals,31,Other Germany,10.0,24.94,2.7,Retail/Grocery,1,1,0,1,8.0
+193,Max,Schmidt,max.schmidt193@example.com,Students & Budget-Conscious,21,Berlin,8.5,17.74,7.2,DTC Online,1,1,0,0,5.1
+194,Paul,Becker,paul.becker194@example.com,On-the-go Commuters,48,Munich,1.9,19.28,6.0,Gym & Office,1,1,0,0,6.0
+195,Lina,Lange,lina.lange195@example.com,On-the-go Commuters,45,Berlin,8.3,15.76,5.0,Retail/Grocery,1,0,0,0,6.7
+196,Anna,Koch,anna.koch196@example.com,Urban Wellness Professionals,26,Other Germany,7.2,24.72,4.7,Gym & Office,1,0,0,0,8.5
+197,Marie,Richter,marie.richter197@example.com,Students & Budget-Conscious,19,Hamburg,2.3,22.25,8.8,Retail/Grocery,1,1,1,0,6.4
+198,Elias,Wolf,elias.wolf198@example.com,On-the-go Commuters,34,Other Germany,6.5,14.53,7.2,Gym & Office,0,1,0,0,6.9
+199,Leon,Koch,leon.koch199@example.com,On-the-go Commuters,49,Munich,8.9,24.49,7.8,DTC Online,1,1,1,0,5.9
+200,Nora,Koch,nora.koch200@example.com,Urban Wellness Professionals,34,Berlin,11.0,29.88,1,DTC Online,1,1,0,1,10
+201,Mia,Wagner,mia.wagner201@example.com,On-the-go Commuters,39,Other Germany,6.9,15.93,4.1,Retail/Grocery,1,1,1,0,9.1
+202,Marie,Wolf,marie.wolf202@example.com,On-the-go Commuters,37,Other Germany,6.9,23.9,5.1,Gym & Office,1,1,0,0,7.0
+203,Emma,Braun,emma.braun203@example.com,Students & Budget-Conscious,20,Other Germany,6.7,19.92,7.6,DTC Online,1,0,1,0,6.2
+204,Paul,Schwarz,paul.schwarz204@example.com,Urban Wellness Professionals,27,Other Germany,7.9,24.59,1.6,DTC Online,0,0,0,1,10
+205,Lukas,Koch,lukas.koch205@example.com,Urban Wellness Professionals,29,Berlin,9.2,14.98,5.1,Retail/Grocery,0,1,0,1,10
+206,Lea,Fischer,lea.fischer206@example.com,Students & Budget-Conscious,23,Cologne,1.9,13.13,10,Retail/Grocery,1,0,0,0,4.6
+207,Paul,Schulz,paul.schulz207@example.com,Students & Budget-Conscious,23,Hamburg,3.7,12.33,8.9,DTC Online,1,0,0,0,5.1
+208,Lea,Zimmermann,lea.zimmermann208@example.com,Urban Wellness Professionals,27,Munich,10.8,13.62,4.3,Retail/Grocery,0,0,0,1,8.9
+209,Ida,Lange,ida.lange209@example.com,Urban Wellness Professionals,40,Hamburg,8.9,31.64,3.1,DTC Online,0,1,0,1,10
+210,Finn,Koch,finn.koch210@example.com,Urban Wellness Professionals,32,Other Germany,6.2,29.36,2.9,DTC Online,0,1,0,0,7.0
+211,Ida,Wolf,ida.wolf211@example.com,Urban Wellness Professionals,30,Berlin,4.0,23.35,4.2,Retail/Grocery,0,0,0,1,9.1
+212,Noah,Krueger,noah.krueger212@example.com,On-the-go Commuters,40,Frankfurt,6.0,18.07,6.4,Retail/Grocery,1,0,0,0,6.3
+213,Marie,Schmidt,marie.schmidt213@example.com,Students & Budget-Conscious,24,Other Germany,4.5,23.4,9.7,Gym & Office,0,0,0,0,3.1
+214,Marie,Becker,marie.becker214@example.com,Urban Wellness Professionals,28,Hamburg,5.7,12.26,5.6,DTC Online,1,0,0,0,9.3
+215,Ida,Hoffmann,ida.hoffmann215@example.com,Fitness & Gym-Goers,29,Munich,9.3,21.36,4.0,Gym & Office,0,0,0,0,9.7
+216,Max,Koch,max.koch216@example.com,Fitness & Gym-Goers,23,Other Germany,5.7,15.48,5.1,Gym & Office,1,0,1,0,8.2
+217,Marie,Braun,marie.braun217@example.com,On-the-go Commuters,46,Other Germany,5.6,16.39,6.9,Gym & Office,0,1,0,0,4.9
+218,Clara,Neumann,clara.neumann218@example.com,Students & Budget-Conscious,21,Cologne,5.0,5.75,7.4,DTC Online,1,1,1,0,6.1
+219,Finn,Fischer,finn.fischer219@example.com,Students & Budget-Conscious,20,Munich,9.3,20.16,6.5,Gym & Office,0,1,0,0,6.8
+220,Noah,Zimmermann,noah.zimmermann220@example.com,Fitness & Gym-Goers,31,Other Germany,6.9,20.95,5.8,Retail/Grocery,0,0,1,1,8.7
+221,Leon,Krueger,leon.krueger221@example.com,Students & Budget-Conscious,18,Hamburg,6.2,11.32,8.7,DTC Online,1,1,1,0,5.5
+222,Finn,Klein,finn.klein222@example.com,Students & Budget-Conscious,18,Cologne,2.6,20.1,8.3,DTC Online,1,1,0,0,4.5
+223,Ben,Richter,ben.richter223@example.com,Students & Budget-Conscious,21,Cologne,4.9,16.89,7.3,DTC Online,1,1,0,0,5.2
+224,Jonas,Peters,jonas.peters224@example.com,Students & Budget-Conscious,21,Other Germany,1.3,14.53,6.8,Retail/Grocery,1,0,1,0,5.6
+225,Lina,Hoffmann,lina.hoffmann225@example.com,Urban Wellness Professionals,29,Berlin,6.5,23.05,4.2,DTC Online,1,0,1,0,10
+226,Mia,Fischer,mia.fischer226@example.com,Students & Budget-Conscious,22,Munich,6.8,15.98,7.0,Retail/Grocery,0,0,0,0,7.1
+227,Ida,Wagner,ida.wagner227@example.com,Urban Wellness Professionals,38,Berlin,5.3,24.97,5.0,DTC Online,1,1,1,1,9.5
+228,Clara,Becker,clara.becker228@example.com,Fitness & Gym-Goers,19,Berlin,4.9,17.35,4.1,DTC Online,0,1,1,1,9.6
+229,Elias,Klein,elias.klein229@example.com,Urban Wellness Professionals,35,Other Germany,9.7,22.61,3.2,Gym & Office,1,0,1,0,9.2
+230,Mia,Schulz,mia.schulz230@example.com,Students & Budget-Conscious,21,Other Germany,7.9,14.82,5.3,Retail/Grocery,1,1,0,1,8.0
+231,Nora,Weber,nora.weber231@example.com,Fitness & Gym-Goers,30,Berlin,9.3,19.25,6.7,Gym & Office,1,0,1,0,7.7
+232,Finn,Weber,finn.weber232@example.com,Urban Wellness Professionals,37,Other Germany,9.5,8.57,3.6,DTC Online,0,1,0,1,10
+233,Clara,Schmidt,clara.schmidt233@example.com,On-the-go Commuters,27,Munich,7.8,29.89,6.9,DTC Online,1,1,0,1,5.5
+234,Felix,Becker,felix.becker234@example.com,On-the-go Commuters,49,Other Germany,4.4,25.71,4.9,Gym & Office,1,0,0,0,7.4
+235,Emma,Braun,emma.braun235@example.com,Urban Wellness Professionals,36,Cologne,9.8,18.13,3.0,DTC Online,0,0,0,1,8.6
+236,Finn,Krueger,finn.krueger236@example.com,Fitness & Gym-Goers,27,Munich,6.8,7.69,9.1,Gym & Office,0,0,1,1,3.4
+237,Max,Schwarz,max.schwarz237@example.com,Fitness & Gym-Goers,19,Other Germany,4.2,20.13,4.5,DTC Online,1,0,1,1,6.3
+238,Ben,Peters,ben.peters238@example.com,Fitness & Gym-Goers,24,Hamburg,5.0,26.97,4.5,Gym & Office,1,0,1,1,8.0
+239,Leon,Hoffmann,leon.hoffmann239@example.com,Urban Wellness Professionals,33,Other Germany,4.5,17.06,6.1,DTC Online,0,1,0,1,7.3
+240,Felix,Schmidt,felix.schmidt240@example.com,Fitness & Gym-Goers,32,Other Germany,3.7,20.93,6.6,DTC Online,1,0,1,1,7.0
+241,Emma,Wolf,emma.wolf241@example.com,Students & Budget-Conscious,24,Berlin,7.1,24.29,6.6,Retail/Grocery,1,0,0,0,5.3
+242,Lina,Richter,lina.richter242@example.com,Students & Budget-Conscious,23,Berlin,8.0,12.83,8.6,Gym & Office,1,1,0,0,4.6
+243,Lukas,Peters,lukas.peters243@example.com,Urban Wellness Professionals,40,Hamburg,8.9,27.81,3.9,Retail/Grocery,1,0,0,1,9.6
+244,Finn,Schwarz,finn.schwarz244@example.com,Fitness & Gym-Goers,29,Munich,6.8,23.52,4.4,DTC Online,1,0,1,0,8.7
+245,Felix,Neumann,felix.neumann245@example.com,Fitness & Gym-Goers,22,Hamburg,5.0,29.45,5.5,Gym & Office,1,0,1,1,6.4
+246,Lukas,Schwarz,lukas.schwarz246@example.com,Urban Wellness Professionals,28,Hamburg,5.8,20.27,4.2,Gym & Office,0,0,1,0,9.2
+247,Sofia,Krueger,sofia.krueger247@example.com,Urban Wellness Professionals,37,Berlin,6.1,23.2,3.2,DTC Online,1,0,0,0,9.7
+248,Max,Wagner,max.wagner248@example.com,Urban Wellness Professionals,28,Cologne,10.9,15.58,3.0,Retail/Grocery,0,0,1,1,10
+249,Emma,Krueger,emma.krueger249@example.com,Students & Budget-Conscious,22,Cologne,5.1,10.62,8.0,Gym & Office,1,1,1,0,2.5
+250,Ben,Braun,ben.braun250@example.com,Fitness & Gym-Goers,21,Other Germany,5.6,16.08,6.6,Gym & Office,1,1,0,0,7.4
+251,Lukas,Weber,lukas.weber251@example.com,Fitness & Gym-Goers,21,Other Germany,3.3,21.46,6.6,Gym & Office,0,0,1,0,8.5
+252,Lina,Richter,lina.richter252@example.com,Students & Budget-Conscious,21,Hamburg,1.9,9.18,9.0,Gym & Office,1,1,0,0,5.0
+253,Ida,Krueger,ida.krueger253@example.com,On-the-go Commuters,28,Hamburg,2.8,21.21,6.6,Retail/Grocery,1,0,0,0,7.7
+254,Jonas,Braun,jonas.braun254@example.com,Students & Budget-Conscious,21,Berlin,4.9,11.72,9.0,DTC Online,1,0,0,0,7.0
+255,Max,Wagner,max.wagner255@example.com,Fitness & Gym-Goers,28,Cologne,8.5,14.16,3.6,Retail/Grocery,1,0,0,0,9.3
+256,Felix,Krueger,felix.krueger256@example.com,Students & Budget-Conscious,19,Cologne,4.3,11.93,8.3,Gym & Office,1,1,0,0,5.3
+257,Ida,Braun,ida.braun257@example.com,Students & Budget-Conscious,21,Cologne,5.6,8.18,9.3,DTC Online,1,1,1,0,8.5
+258,Max,Klein,max.klein258@example.com,On-the-go Commuters,50,Other Germany,3.7,14.04,7.3,Retail/Grocery,0,0,0,0,4.6
+259,Paul,Braun,paul.braun259@example.com,Fitness & Gym-Goers,33,Other Germany,7.6,18.89,7.2,DTC Online,0,1,1,0,8.2
+260,Jonas,Wagner,jonas.wagner260@example.com,Students & Budget-Conscious,19,Cologne,6.3,25.31,8.0,Retail/Grocery,1,1,1,0,7.4
+261,Ida,Wagner,ida.wagner261@example.com,Students & Budget-Conscious,23,Other Germany,2.7,8.36,8.2,Retail/Grocery,1,1,1,0,2.1
+262,Noah,Hoffmann,noah.hoffmann262@example.com,On-the-go Commuters,40,Other Germany,5.0,13.56,5.9,Gym & Office,1,1,0,0,8.1
+263,Marie,Klein,marie.klein263@example.com,Fitness & Gym-Goers,26,Hamburg,6.9,13.33,4.8,Retail/Grocery,1,0,0,0,9.5
+264,Emma,Klein,emma.klein264@example.com,On-the-go Commuters,45,Munich,2.4,27.49,4.9,Gym & Office,1,0,0,0,9.1
+265,Ida,Zimmermann,ida.zimmermann265@example.com,Fitness & Gym-Goers,35,Cologne,3.1,10.1,4.2,Gym & Office,1,1,1,1,8.0
+266,Noah,Klein,noah.klein266@example.com,Students & Budget-Conscious,20,Other Germany,4.1,26.94,7.7,Retail/Grocery,1,1,0,0,6.6
+267,Leon,Schwarz,leon.schwarz267@example.com,Fitness & Gym-Goers,35,Other Germany,9.6,21.51,5.7,Retail/Grocery,0,0,0,0,6.6
+268,Sofia,Schulz,sofia.schulz268@example.com,Urban Wellness Professionals,26,Berlin,5.7,33.08,1.9,Gym & Office,0,0,0,1,8.6
+269,Noah,Fischer,noah.fischer269@example.com,Fitness & Gym-Goers,24,Munich,7.2,14.06,5.8,Gym & Office,0,1,1,1,7.6
+270,Marie,Schmidt,marie.schmidt270@example.com,Urban Wellness Professionals,29,Berlin,4.3,25.49,3.8,Retail/Grocery,0,1,0,1,8.5
+271,Nora,Hoffmann,nora.hoffmann271@example.com,On-the-go Commuters,41,Berlin,8.0,25.11,4.6,Retail/Grocery,1,1,1,0,8.1
+272,Paul,Braun,paul.braun272@example.com,Urban Wellness Professionals,25,Berlin,10.1,26.87,3.6,DTC Online,0,1,0,1,9.1
+273,Nora,Neumann,nora.neumann273@example.com,Students & Budget-Conscious,23,Munich,5.5,13.89,6.5,DTC Online,1,1,1,0,6.4
+274,Mia,Schulz,mia.schulz274@example.com,On-the-go Commuters,42,Berlin,3.5,25.31,4.9,Retail/Grocery,1,0,0,0,6.2
+275,Lea,Weber,lea.weber275@example.com,Fitness & Gym-Goers,20,Other Germany,7.3,23.55,4.4,Retail/Grocery,0,0,1,1,8.8
+276,Anna,Schwarz,anna.schwarz276@example.com,Urban Wellness Professionals,37,Cologne,5.4,18.83,2.8,Retail/Grocery,0,0,1,0,8.5
+277,Max,Fischer,max.fischer277@example.com,Students & Budget-Conscious,24,Other Germany,9.8,9.44,7.4,Retail/Grocery,1,1,0,0,7.7
+278,Lea,Klein,lea.klein278@example.com,On-the-go Commuters,34,Other Germany,2.7,24.13,4.7,Retail/Grocery,0,0,0,1,5.2
+279,Leon,Fischer,leon.fischer279@example.com,Students & Budget-Conscious,22,Hamburg,8.5,22.31,7.3,Retail/Grocery,1,1,1,0,5.0
+280,Ida,Schmidt,ida.schmidt280@example.com,On-the-go Commuters,31,Berlin,1.4,23.75,7.8,Retail/Grocery,1,1,1,0,5.6
+281,Ben,Wagner,ben.wagner281@example.com,Urban Wellness Professionals,35,Hamburg,8.0,25.65,3.4,DTC Online,0,0,1,1,10
+282,Marie,Koch,marie.koch282@example.com,On-the-go Commuters,38,Berlin,2.7,15.84,6.5,Retail/Grocery,1,1,0,0,5.5
+283,Noah,Fischer,noah.fischer283@example.com,On-the-go Commuters,40,Frankfurt,2.0,22.4,7.4,Retail/Grocery,0,1,1,1,7.3
+284,Ida,Schwarz,ida.schwarz284@example.com,Urban Wellness Professionals,25,Other Germany,5.8,27.5,3.6,Gym & Office,0,0,1,1,9.9
+285,Elias,Becker,elias.becker285@example.com,On-the-go Commuters,43,Other Germany,7.3,16.05,4.5,DTC Online,0,0,0,1,8.7
+286,Ida,Becker,ida.becker286@example.com,Urban Wellness Professionals,39,Berlin,5.0,20.58,3.4,DTC Online,1,1,1,1,10
+287,Lina,Schmidt,lina.schmidt287@example.com,On-the-go Commuters,36,Hamburg,5.8,29.65,7.8,DTC Online,1,0,0,0,8.0
+288,Mia,Lange,mia.lange288@example.com,Urban Wellness Professionals,37,Hamburg,12.6,24.14,3.5,Retail/Grocery,1,0,0,1,10
+289,Mia,Lange,mia.lange289@example.com,On-the-go Commuters,39,Berlin,5.2,22.64,5.4,DTC Online,1,1,0,0,8.4
+290,Ida,Hoffmann,ida.hoffmann290@example.com,Urban Wellness Professionals,40,Cologne,6.0,24.34,2.7,Retail/Grocery,1,0,0,1,10
+291,Clara,Weber,clara.weber291@example.com,Students & Budget-Conscious,19,Cologne,2.0,21.0,9.5,Retail/Grocery,1,1,0,0,1.2
+292,Noah,Lange,noah.lange292@example.com,Urban Wellness Professionals,29,Other Germany,10.5,19.75,3.3,Retail/Grocery,1,1,1,1,10
+293,Lea,Wagner,lea.wagner293@example.com,On-the-go Commuters,41,Other Germany,9.3,7.96,7.2,Retail/Grocery,0,1,0,0,4.2
+294,Jonas,Lange,jonas.lange294@example.com,Urban Wellness Professionals,25,Other Germany,10.3,24.27,1.2,Gym & Office,0,0,1,0,9.6
+295,Jonas,Becker,jonas.becker295@example.com,On-the-go Commuters,47,Frankfurt,9.5,21.86,5.9,Retail/Grocery,1,1,1,0,6.4
+296,Anna,Schwarz,anna.schwarz296@example.com,Students & Budget-Conscious,22,Berlin,3.0,16.05,6.9,Retail/Grocery,1,1,0,0,7.4
+297,Clara,Schulz,clara.schulz297@example.com,Urban Wellness Professionals,33,Other Germany,10.0,20.03,1.6,Retail/Grocery,1,1,1,0,10
+298,Lina,Hoffmann,lina.hoffmann298@example.com,Fitness & Gym-Goers,21,Other Germany,7.0,20.9,6.8,Retail/Grocery,0,1,1,0,4.5
+299,Max,Zimmermann,max.zimmermann299@example.com,On-the-go Commuters,29,Cologne,6.4,12.68,6.9,DTC Online,0,1,0,0,7.7
+300,Noah,Krueger,noah.krueger300@example.com,On-the-go Commuters,26,Other Germany,6.9,14.74,5.2,Retail/Grocery,1,0,0,0,4.9
+301,Anna,Hoffmann,anna.hoffmann301@example.com,Students & Budget-Conscious,18,Hamburg,5.4,8.33,8.9,Retail/Grocery,1,1,0,0,6.2
+302,Sofia,Koch,sofia.koch302@example.com,Urban Wellness Professionals,36,Hamburg,6.8,31.18,2.8,DTC Online,0,1,1,1,9.3
+303,Sofia,Peters,sofia.peters303@example.com,On-the-go Commuters,50,Cologne,3.2,13.26,6.7,Retail/Grocery,0,0,0,0,2.6
+304,Sofia,Fischer,sofia.fischer304@example.com,Urban Wellness Professionals,25,Cologne,10.5,27.21,1.8,Retail/Grocery,0,1,1,0,10
+305,Marie,Fischer,marie.fischer305@example.com,Students & Budget-Conscious,20,Berlin,5.0,16.27,7.2,DTC Online,1,0,0,0,6.8
+306,Sofia,Schulz,sofia.schulz306@example.com,Fitness & Gym-Goers,25,Other Germany,9.9,22.79,5.8,Retail/Grocery,1,1,0,0,6.5
+307,Lukas,Krueger,lukas.krueger307@example.com,Students & Budget-Conscious,24,Frankfurt,6.7,27.85,7.2,DTC Online,1,1,0,0,4.0
+308,Jonas,Krueger,jonas.krueger308@example.com,Urban Wellness Professionals,29,Berlin,6.9,15.85,3.8,Retail/Grocery,0,1,1,1,10
+309,Ida,Wagner,ida.wagner309@example.com,Students & Budget-Conscious,23,Munich,7.9,17.46,7.2,Retail/Grocery,1,0,0,0,7.8
+310,Paul,Schwarz,paul.schwarz310@example.com,Students & Budget-Conscious,23,Other Germany,6.3,22.42,7.8,Retail/Grocery,1,1,1,0,7.0
+311,Lea,Krueger,lea.krueger311@example.com,Urban Wellness Professionals,29,Other Germany,5.9,4,3.8,Retail/Grocery,0,0,0,1,9.5
+312,Noah,Schmidt,noah.schmidt312@example.com,Fitness & Gym-Goers,19,Hamburg,7.6,21.45,5.7,Retail/Grocery,1,0,1,0,7.2
+313,Max,Schulz,max.schulz313@example.com,Urban Wellness Professionals,38,Berlin,6.8,9.25,1.8,DTC Online,1,0,0,1,9.7
+314,Lea,Hoffmann,lea.hoffmann314@example.com,Students & Budget-Conscious,22,Munich,2.4,12.18,6.1,Retail/Grocery,0,1,1,0,7.5
+315,Clara,Richter,clara.richter315@example.com,Fitness & Gym-Goers,26,Other Germany,3.1,27.15,7.2,Retail/Grocery,1,1,0,1,5.9
+316,Mia,Schulz,mia.schulz316@example.com,Students & Budget-Conscious,20,Other Germany,5.7,27.73,8.3,Retail/Grocery,1,1,0,1,6.4
+317,Clara,Klein,clara.klein317@example.com,Students & Budget-Conscious,19,Berlin,8.1,13.46,8.3,Retail/Grocery,1,1,0,0,5.5
+318,Leon,Richter,leon.richter318@example.com,On-the-go Commuters,39,Other Germany,6.0,27.66,5.3,Retail/Grocery,1,0,0,0,6.5
+319,Paul,Krueger,paul.krueger319@example.com,Fitness & Gym-Goers,35,Munich,6.5,18.17,3.2,Gym & Office,1,1,0,0,9.8
+320,Felix,Krueger,felix.krueger320@example.com,Urban Wellness Professionals,40,Frankfurt,10.8,26.48,2.8,Retail/Grocery,0,1,0,1,8.2
+321,Clara,Schwarz,clara.schwarz321@example.com,Students & Budget-Conscious,23,Other Germany,5.7,11.55,8.1,Gym & Office,1,0,1,0,4.1
+322,Mia,Hoffmann,mia.hoffmann322@example.com,Urban Wellness Professionals,33,Hamburg,7.8,16.21,3.9,Retail/Grocery,0,1,1,0,9.9
+323,Lea,Braun,lea.braun323@example.com,Students & Budget-Conscious,18,Munich,3.6,21.03,7.9,Retail/Grocery,1,0,0,0,6.9
+324,Lea,Schmidt,lea.schmidt324@example.com,On-the-go Commuters,35,Berlin,8.0,16.08,5.9,Gym & Office,1,1,1,0,6.5
+325,Lina,Koch,lina.koch325@example.com,Fitness & Gym-Goers,30,Other Germany,5.7,10.31,5.5,Retail/Grocery,0,0,1,0,8.5
+326,Leon,Lange,leon.lange326@example.com,Urban Wellness Professionals,26,Other Germany,8.3,19.85,4.6,DTC Online,0,0,1,1,10
+327,Finn,Schwarz,finn.schwarz327@example.com,Students & Budget-Conscious,24,Munich,4.7,26.93,8.0,Retail/Grocery,1,1,1,0,6.1
+328,Lukas,Schmidt,lukas.schmidt328@example.com,Students & Budget-Conscious,22,Hamburg,6.2,14.71,7.5,Retail/Grocery,1,0,0,0,5.5
+329,Clara,Neumann,clara.neumann329@example.com,On-the-go Commuters,48,Munich,4.6,28.99,5.8,Retail/Grocery,1,1,0,0,7.4
+330,Max,Peters,max.peters330@example.com,Urban Wellness Professionals,39,Munich,8.9,11.3,4.4,DTC Online,0,0,1,0,10
+331,Max,Koch,max.koch331@example.com,On-the-go Commuters,44,Other Germany,6.8,30.74,5.8,Retail/Grocery,1,0,1,0,6.3
+332,Nora,Fischer,nora.fischer332@example.com,Urban Wellness Professionals,35,Berlin,7.1,19.7,6.4,DTC Online,1,1,0,1,8.3
+333,Ben,Fischer,ben.fischer333@example.com,Urban Wellness Professionals,33,Berlin,6.2,11.35,6.4,Retail/Grocery,0,0,1,0,5.1
+334,Lukas,Richter,lukas.richter334@example.com,On-the-go Commuters,36,Other Germany,6.5,23.76,3.9,Retail/Grocery,1,1,1,0,7.4
+335,Noah,Peters,noah.peters335@example.com,Students & Budget-Conscious,23,Munich,2.9,23.55,8.0,Retail/Grocery,1,0,0,0,6.7
+336,Noah,Peters,noah.peters336@example.com,Students & Budget-Conscious,21,Cologne,4.3,11.71,9.4,Gym & Office,1,1,0,0,5.6
+337,Emma,Schwarz,emma.schwarz337@example.com,Fitness & Gym-Goers,25,Frankfurt,1.6,19.49,5.8,Gym & Office,1,0,0,0,10
+338,Ben,Schulz,ben.schulz338@example.com,Urban Wellness Professionals,34,Berlin,6.8,26.83,3.7,DTC Online,0,0,0,1,7.5
+339,Sofia,Neumann,sofia.neumann339@example.com,Students & Budget-Conscious,20,Berlin,3.6,15.48,8.8,DTC Online,1,1,1,0,6.2
+340,Ida,Wagner,ida.wagner340@example.com,Urban Wellness Professionals,40,Other Germany,6.7,23.41,2.6,DTC Online,1,0,1,0,8.3
+341,Ben,Weber,ben.weber341@example.com,Urban Wellness Professionals,28,Other Germany,5.7,31.68,2.3,DTC Online,0,1,0,1,10
+342,Max,Lange,max.lange342@example.com,Fitness & Gym-Goers,30,Other Germany,6.8,19.39,6.7,Gym & Office,1,0,1,1,6.4
+343,Lea,Becker,lea.becker343@example.com,Urban Wellness Professionals,38,Other Germany,7.9,18.18,2.6,Retail/Grocery,0,0,1,1,10
+344,Jonas,Zimmermann,jonas.zimmermann344@example.com,Urban Wellness Professionals,27,Berlin,8.5,19.04,2.9,Retail/Grocery,1,1,0,0,10
+345,Ben,Schulz,ben.schulz345@example.com,Fitness & Gym-Goers,32,Berlin,5.3,20.38,5.2,Retail/Grocery,1,0,1,0,7.5
+346,Finn,Klein,finn.klein346@example.com,Students & Budget-Conscious,20,Other Germany,5.3,19.12,7.7,Retail/Grocery,1,1,0,0,7.4
+347,Clara,Lange,clara.lange347@example.com,Students & Budget-Conscious,23,Other Germany,4.9,13.43,8.8,DTC Online,1,0,1,0,7.5
+348,Paul,Wagner,paul.wagner348@example.com,Students & Budget-Conscious,24,Other Germany,4.5,11.43,10,Retail/Grocery,0,1,1,0,3.3
+349,Lina,Peters,lina.peters349@example.com,Urban Wellness Professionals,30,Munich,7.0,22.94,3.7,DTC Online,1,1,1,1,10
+350,Nora,Richter,nora.richter350@example.com,Fitness & Gym-Goers,25,Other Germany,3.3,28.45,6.2,DTC Online,1,0,1,1,5.3
+351,Clara,Lange,clara.lange351@example.com,On-the-go Commuters,46,Berlin,4.5,14.18,7.7,Retail/Grocery,1,0,0,0,4.9
+352,Ida,Peters,ida.peters352@example.com,Urban Wellness Professionals,31,Other Germany,6.2,29.59,3.1,Gym & Office,0,1,0,0,10
+353,Leon,Peters,leon.peters353@example.com,Fitness & Gym-Goers,23,Munich,5.6,14.37,6.1,Retail/Grocery,0,0,1,0,10
+354,Emma,Wagner,emma.wagner354@example.com,Urban Wellness Professionals,33,Berlin,7.5,31.1,3.7,Retail/Grocery,0,0,1,1,9.4
+355,Nora,Krueger,nora.krueger355@example.com,Students & Budget-Conscious,24,Cologne,3.3,21.4,7.7,Retail/Grocery,1,1,0,1,4.2
+356,Emma,Schulz,emma.schulz356@example.com,Students & Budget-Conscious,21,Munich,5.8,26.01,10,Retail/Grocery,1,1,1,0,3.9
+357,Marie,Schwarz,marie.schwarz357@example.com,Students & Budget-Conscious,23,Other Germany,3.7,12.95,6.4,Gym & Office,1,1,0,0,5.3
+358,Clara,Schmidt,clara.schmidt358@example.com,Students & Budget-Conscious,19,Cologne,4.9,17.6,6.5,Retail/Grocery,1,1,0,0,6.0
+359,Lea,Braun,lea.braun359@example.com,Urban Wellness Professionals,26,Other Germany,5.0,21.62,4.2,Retail/Grocery,0,0,1,1,8.6
+360,Emma,Braun,emma.braun360@example.com,Urban Wellness Professionals,30,Cologne,7.7,16.07,4.5,DTC Online,0,1,0,0,7.2
+361,Nora,Hoffmann,nora.hoffmann361@example.com,Students & Budget-Conscious,23,Hamburg,6.8,19.58,7.1,DTC Online,1,1,0,0,2.7
+362,Lina,Klein,lina.klein362@example.com,Fitness & Gym-Goers,31,Munich,5.8,23.74,5.0,Retail/Grocery,1,0,0,0,8.9
+363,Ida,Krueger,ida.krueger363@example.com,Students & Budget-Conscious,21,Munich,6.3,18.07,6.7,Gym & Office,1,0,0,0,6.1
+364,Lukas,Becker,lukas.becker364@example.com,Students & Budget-Conscious,18,Other Germany,2.0,17.77,9.2,Gym & Office,1,1,1,0,3.6
+365,Lina,Neumann,lina.neumann365@example.com,Fitness & Gym-Goers,35,Berlin,5.6,17.85,6.0,Gym & Office,1,0,1,1,9.0
+366,Marie,Lange,marie.lange366@example.com,Students & Budget-Conscious,23,Other Germany,6.1,18.45,7.2,DTC Online,0,1,1,0,6.4
+367,Marie,Richter,marie.richter367@example.com,Fitness & Gym-Goers,27,Hamburg,7.3,24.26,1.3,Retail/Grocery,1,0,1,1,10
+368,Anna,Wagner,anna.wagner368@example.com,Fitness & Gym-Goers,27,Other Germany,5.8,26.37,7.3,Retail/Grocery,0,0,1,0,8.8
+369,Elias,Richter,elias.richter369@example.com,Fitness & Gym-Goers,18,Other Germany,4.4,14.58,5.8,Gym & Office,0,0,1,0,7.7
+370,Marie,Krueger,marie.krueger370@example.com,Students & Budget-Conscious,19,Munich,2.2,9.81,10,DTC Online,0,1,1,0,2.8
+371,Elias,Wolf,elias.wolf371@example.com,Urban Wellness Professionals,26,Other Germany,7.2,18.62,3.3,Gym & Office,0,1,1,0,9.2
+372,Noah,Schwarz,noah.schwarz372@example.com,Urban Wellness Professionals,37,Other Germany,8.1,23.86,3.7,Gym & Office,0,1,1,0,8.3
+373,Elias,Hoffmann,elias.hoffmann373@example.com,Urban Wellness Professionals,34,Munich,8.7,23.03,5.2,DTC Online,1,0,1,1,5.4
+374,Elias,Wolf,elias.wolf374@example.com,On-the-go Commuters,48,Other Germany,8.4,23.56,7.6,DTC Online,1,0,0,0,2.6
+375,Lukas,Fischer,lukas.fischer375@example.com,Urban Wellness Professionals,25,Munich,11.6,33.22,2.1,Retail/Grocery,1,0,0,1,10
+376,Marie,Braun,marie.braun376@example.com,Students & Budget-Conscious,20,Munich,3.8,19.12,7.5,Gym & Office,1,1,0,0,6.3
+377,Ida,Koch,ida.koch377@example.com,Students & Budget-Conscious,23,Other Germany,6.3,21.93,8.5,Retail/Grocery,1,0,1,0,3.9
+378,Max,Braun,max.braun378@example.com,Students & Budget-Conscious,21,Berlin,4.2,21.82,7.2,DTC Online,1,0,0,0,3.7
+379,Lina,Wagner,lina.wagner379@example.com,Students & Budget-Conscious,24,Other Germany,6.8,17.8,6.1,Retail/Grocery,1,0,0,0,4.9
+380,Marie,Braun,marie.braun380@example.com,Urban Wellness Professionals,35,Other Germany,7.6,29.0,3.0,Retail/Grocery,1,1,0,1,10
+381,Mia,Klein,mia.klein381@example.com,Urban Wellness Professionals,28,Munich,7.5,17.77,2.2,DTC Online,0,1,1,0,10
+382,Marie,Peters,marie.peters382@example.com,Fitness & Gym-Goers,31,Frankfurt,5.2,15.96,5.2,Retail/Grocery,0,1,1,0,5.9
+383,Clara,Fischer,clara.fischer383@example.com,Students & Budget-Conscious,21,Berlin,4.0,9.91,6.4,Retail/Grocery,1,1,1,0,4.8
+384,Lea,Braun,lea.braun384@example.com,Fitness & Gym-Goers,18,Other Germany,6.5,18.63,4.2,Retail/Grocery,1,0,0,0,8.2
+385,Paul,Fischer,paul.fischer385@example.com,On-the-go Commuters,38,Other Germany,5.4,10.23,4.4,Gym & Office,1,0,0,1,7.5
+386,Elias,Weber,elias.weber386@example.com,Fitness & Gym-Goers,29,Berlin,9.2,15.89,5.7,Gym & Office,1,0,1,0,8.6
+387,Paul,Zimmermann,paul.zimmermann387@example.com,Students & Budget-Conscious,21,Other Germany,9.7,12.45,10,Retail/Grocery,1,0,0,0,3.5
+388,Jonas,Braun,jonas.braun388@example.com,On-the-go Commuters,27,Berlin,3.3,24.95,7.6,Retail/Grocery,1,0,0,0,4.9
+389,Ben,Lange,ben.lange389@example.com,Urban Wellness Professionals,25,Frankfurt,12.0,22.27,3.1,DTC Online,0,1,0,0,9.8
+390,Sofia,Braun,sofia.braun390@example.com,Students & Budget-Conscious,23,Other Germany,5.5,15.57,6.4,DTC Online,1,0,0,0,5.6
+391,Leon,Weber,leon.weber391@example.com,Fitness & Gym-Goers,19,Other Germany,7.5,12.82,4.0,Gym & Office,0,0,1,1,9.3
+392,Ida,Richter,ida.richter392@example.com,On-the-go Commuters,48,Munich,6.2,18.59,7.4,Gym & Office,0,0,1,1,6.3
+393,Max,Richter,max.richter393@example.com,Urban Wellness Professionals,33,Munich,8.9,22.94,3.3,Gym & Office,0,0,1,1,7.8
+394,Nora,Schmidt,nora.schmidt394@example.com,On-the-go Commuters,32,Cologne,6.9,28.59,5.7,Retail/Grocery,1,0,0,0,9.6
+395,Paul,Schmidt,paul.schmidt395@example.com,Urban Wellness Professionals,30,Munich,5.3,27.77,2.1,DTC Online,1,0,0,1,10
+396,Lea,Lange,lea.lange396@example.com,Urban Wellness Professionals,37,Cologne,7.0,28.84,3.6,Retail/Grocery,0,0,1,0,8.9
+397,Sofia,Wolf,sofia.wolf397@example.com,Fitness & Gym-Goers,31,Other Germany,10.0,20.45,5.2,Gym & Office,0,1,1,0,10
+398,Anna,Weber,anna.weber398@example.com,Urban Wellness Professionals,30,Munich,6.9,25.26,3.6,DTC Online,1,1,1,1,10
+399,Emma,Wagner,emma.wagner399@example.com,Students & Budget-Conscious,22,Other Germany,4.1,19.04,7.8,DTC Online,0,0,0,0,4.9
+400,Mia,Braun,mia.braun400@example.com,Fitness & Gym-Goers,26,Munich,5.0,7.41,6.4,Retail/Grocery,1,1,1,0,8.8
+401,Sofia,Richter,sofia.richter401@example.com,Urban Wellness Professionals,35,Other Germany,7.8,26.8,3.7,DTC Online,0,1,1,1,9.5
+402,Sofia,Wagner,sofia.wagner402@example.com,Fitness & Gym-Goers,21,Other Germany,6.2,18.14,6.0,Gym & Office,1,0,1,1,5.0
+403,Clara,Weber,clara.weber403@example.com,Urban Wellness Professionals,29,Other Germany,8.0,20.19,1,Retail/Grocery,0,0,1,1,10
+404,Ida,Peters,ida.peters404@example.com,On-the-go Commuters,49,Cologne,4.7,15.54,7.1,DTC Online,0,1,0,0,4.7
+405,Elias,Schulz,elias.schulz405@example.com,Students & Budget-Conscious,21,Other Germany,5.4,13.6,8.2,DTC Online,0,0,0,1,5.9
+406,Emma,Weber,emma.weber406@example.com,Fitness & Gym-Goers,24,Berlin,3.8,18.56,5.2,Retail/Grocery,1,0,0,0,8.1
+407,Marie,Schmidt,marie.schmidt407@example.com,On-the-go Commuters,26,Hamburg,7.1,16.43,5.3,Gym & Office,0,0,0,0,5.6
+408,Anna,Krueger,anna.krueger408@example.com,Students & Budget-Conscious,23,Berlin,2.7,15.1,9.5,Retail/Grocery,1,0,0,1,6.7
+409,Finn,Wagner,finn.wagner409@example.com,Fitness & Gym-Goers,20,Other Germany,7.5,25.51,3.2,Gym & Office,0,0,1,0,10
+410,Marie,Schulz,marie.schulz410@example.com,On-the-go Commuters,43,Frankfurt,3.2,17.76,6.2,Retail/Grocery,1,0,0,0,7.2
+411,Max,Schwarz,max.schwarz411@example.com,On-the-go Commuters,26,Berlin,5.7,18.93,6.0,Retail/Grocery,1,0,0,0,6.7
+412,Lea,Schulz,lea.schulz412@example.com,On-the-go Commuters,49,Cologne,6.9,14.54,6.6,Retail/Grocery,1,0,0,0,6.7
+413,Paul,Zimmermann,paul.zimmermann413@example.com,Students & Budget-Conscious,24,Other Germany,4.5,20.85,9.0,Retail/Grocery,1,0,0,0,6.0
+414,Lukas,Schulz,lukas.schulz414@example.com,On-the-go Commuters,46,Munich,6.4,26.1,6.6,Retail/Grocery,1,0,1,0,3.6
+415,Lina,Schmidt,lina.schmidt415@example.com,Students & Budget-Conscious,20,Hamburg,5.3,12.96,8.3,Retail/Grocery,1,1,1,0,5.0
+416,Marie,Koch,marie.koch416@example.com,Fitness & Gym-Goers,31,Munich,4.4,28.03,5.7,DTC Online,1,1,1,0,9.2
+417,Max,Braun,max.braun417@example.com,On-the-go Commuters,29,Munich,7.5,15.1,6.5,Retail/Grocery,1,1,1,0,6.7
+418,Lina,Zimmermann,lina.zimmermann418@example.com,Students & Budget-Conscious,18,Other Germany,6.3,22.13,8.6,Gym & Office,1,0,1,0,3.7
+419,Nora,Krueger,nora.krueger419@example.com,On-the-go Commuters,27,Hamburg,4.6,12.16,6.6,Retail/Grocery,1,0,1,0,6.6
+420,Ida,Weber,ida.weber420@example.com,Students & Budget-Conscious,22,Other Germany,5.4,26.96,7.7,Retail/Grocery,1,1,0,0,5.4

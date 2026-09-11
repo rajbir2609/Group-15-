@@ -1,0 +1,301 @@
+respondent_id,segment,too_cheap_eur,cheap_eur,expensive_eur,too_expensive_eur
+1,Urban Wellness Professionals,1.15,1.83,2.77,3.31
+2,On-the-go Commuters,0.84,1.21,2.23,2.8
+3,On-the-go Commuters,0.92,1.35,2.25,2.62
+4,Fitness & Gym-Goers,0.88,1.51,2.07,3.14
+5,Students & Budget-Conscious,0.72,1.0,1.58,2.02
+6,On-the-go Commuters,1.06,1.55,2.21,2.52
+7,On-the-go Commuters,0.86,1.31,2.27,2.76
+8,Urban Wellness Professionals,1.25,1.76,2.61,3.47
+9,Urban Wellness Professionals,1.3,1.98,2.79,3.6
+10,Urban Wellness Professionals,1.14,1.98,2.94,3.81
+11,On-the-go Commuters,1.07,1.38,2.28,2.82
+12,On-the-go Commuters,0.76,1.53,2.06,2.7
+13,Students & Budget-Conscious,0.81,1.24,1.81,2.1
+14,Fitness & Gym-Goers,1.13,1.58,2.46,3.0
+15,Fitness & Gym-Goers,0.59,2.04,2.44,2.91
+16,Students & Budget-Conscious,0.6,1.3,1.85,1.98
+17,Urban Wellness Professionals,1.15,1.65,2.93,3.14
+18,Urban Wellness Professionals,1.4,1.9,2.43,3.39
+19,Fitness & Gym-Goers,0.99,1.49,2.44,3.0
+20,On-the-go Commuters,0.89,1.38,1.93,2.75
+21,Students & Budget-Conscious,0.53,0.99,1.82,2.28
+22,Fitness & Gym-Goers,1.04,1.63,2.33,3.64
+23,Students & Budget-Conscious,0.86,1.06,1.69,2.26
+24,On-the-go Commuters,0.97,1.32,1.98,2.66
+25,Urban Wellness Professionals,1.09,2.09,3.06,3.48
+26,Urban Wellness Professionals,1.12,1.59,2.84,3.51
+27,Students & Budget-Conscious,0.74,1.01,1.86,2.4
+28,Fitness & Gym-Goers,0.96,1.83,2.27,3.22
+29,Students & Budget-Conscious,0.65,1.02,1.23,2.33
+30,Fitness & Gym-Goers,1.05,1.56,2.57,3.39
+31,Students & Budget-Conscious,0.57,0.93,1.63,1.91
+32,Fitness & Gym-Goers,0.92,1.58,2.57,2.92
+33,On-the-go Commuters,0.67,1.66,2.09,2.86
+34,Urban Wellness Professionals,1.14,1.65,2.75,3.57
+35,On-the-go Commuters,0.9,1.31,2.14,2.52
+36,Students & Budget-Conscious,0.77,1.08,2.02,2.08
+37,Students & Budget-Conscious,0.45,1.04,1.38,1.98
+38,Students & Budget-Conscious,0.6,1.25,1.66,2.36
+39,Students & Budget-Conscious,0.79,1.13,1.69,2.05
+40,On-the-go Commuters,0.8,1.15,1.7,2.54
+41,Urban Wellness Professionals,1.11,1.73,2.67,3.17
+42,Fitness & Gym-Goers,1.09,1.74,2.44,3.58
+43,Fitness & Gym-Goers,0.85,1.78,2.4,2.88
+44,Urban Wellness Professionals,1.09,1.84,2.63,3.53
+45,On-the-go Commuters,0.7,1.36,2.22,2.62
+46,Fitness & Gym-Goers,1.08,1.66,2.54,2.67
+47,Fitness & Gym-Goers,1.07,1.64,2.71,3.25
+48,Students & Budget-Conscious,0.63,1.43,1.7,2.16
+49,On-the-go Commuters,0.77,1.08,2.24,2.89
+50,Fitness & Gym-Goers,0.92,1.42,2.51,3.12
+51,Students & Budget-Conscious,0.7,1.07,1.47,2.31
+52,Urban Wellness Professionals,1.37,1.78,3.09,3.45
+53,On-the-go Commuters,0.88,1.35,1.97,2.73
+54,On-the-go Commuters,0.91,1.07,2.18,2.88
+55,Students & Budget-Conscious,0.67,1.13,1.57,2.19
+56,On-the-go Commuters,0.8,1.58,2.28,2.32
+57,On-the-go Commuters,0.86,1.56,2.09,2.7
+58,Fitness & Gym-Goers,0.78,1.8,2.85,2.95
+59,Urban Wellness Professionals,1.41,1.57,3.09,3.22
+60,Students & Budget-Conscious,0.82,1.1,1.66,2.29
+61,Urban Wellness Professionals,1.17,1.64,3.0,3.5
+62,Students & Budget-Conscious,0.44,1.03,1.32,2.45
+63,Students & Budget-Conscious,0.7,0.98,1.5,2.23
+64,Urban Wellness Professionals,1.31,1.67,2.72,4.15
+65,Fitness & Gym-Goers,0.93,1.62,2.49,3.07
+66,On-the-go Commuters,0.88,1.32,2.07,2.81
+67,Urban Wellness Professionals,1.18,1.82,2.55,3.03
+68,On-the-go Commuters,0.95,1.38,1.86,2.71
+69,Fitness & Gym-Goers,1.13,1.77,2.53,2.87
+70,Fitness & Gym-Goers,0.98,1.31,2.83,3.5
+71,On-the-go Commuters,0.97,1.49,2.39,2.72
+72,Students & Budget-Conscious,0.75,0.95,1.67,2.17
+73,Urban Wellness Professionals,1.18,1.85,2.54,3.62
+74,Fitness & Gym-Goers,1.03,1.7,2.61,3.2
+75,Fitness & Gym-Goers,0.93,1.45,2.15,3.15
+76,Students & Budget-Conscious,0.67,0.89,1.84,2.59
+77,Fitness & Gym-Goers,1.03,1.65,2.36,3.19
+78,Students & Budget-Conscious,0.7,1.11,1.81,2.61
+79,Urban Wellness Professionals,1.01,1.75,2.93,3.47
+80,Urban Wellness Professionals,1.31,1.85,2.88,3.52
+81,Urban Wellness Professionals,1.37,1.71,2.8,3.96
+82,Students & Budget-Conscious,0.87,1.09,1.62,2.35
+83,Students & Budget-Conscious,0.59,0.99,1.69,2.45
+84,Urban Wellness Professionals,1.33,1.93,2.65,3.15
+85,Students & Budget-Conscious,0.55,1.3,1.68,1.9
+86,Fitness & Gym-Goers,1.0,1.71,2.42,3.04
+87,Students & Budget-Conscious,0.58,0.94,2.2,2.34
+88,On-the-go Commuters,0.92,1.3,2.0,2.72
+89,On-the-go Commuters,0.82,1.3,1.76,2.75
+90,Urban Wellness Professionals,1.23,1.85,2.52,3.66
+91,On-the-go Commuters,0.9,1.1,1.92,2.61
+92,Urban Wellness Professionals,1.15,1.74,2.58,3.59
+93,Urban Wellness Professionals,1.39,1.71,2.87,3.64
+94,On-the-go Commuters,0.82,1.75,2.59,2.91
+95,Students & Budget-Conscious,0.75,0.93,1.45,2.14
+96,Students & Budget-Conscious,0.56,1.16,1.51,2.11
+97,Fitness & Gym-Goers,0.99,1.6,2.25,2.96
+98,Students & Budget-Conscious,0.82,1.01,1.37,2.18
+99,Students & Budget-Conscious,0.75,0.99,1.68,2.3
+100,Students & Budget-Conscious,0.59,1.06,1.38,1.79
+101,Students & Budget-Conscious,0.85,1.32,2.22,2.39
+102,On-the-go Commuters,0.9,1.46,1.92,2.44
+103,On-the-go Commuters,0.76,1.71,2.21,2.58
+104,Students & Budget-Conscious,0.77,1.02,1.97,2.16
+105,Students & Budget-Conscious,0.57,1.28,1.66,2.36
+106,Students & Budget-Conscious,0.56,0.84,1.94,2.08
+107,Fitness & Gym-Goers,0.88,1.26,2.48,3.4
+108,Fitness & Gym-Goers,1.03,1.75,2.43,3.22
+109,Fitness & Gym-Goers,1.07,1.47,2.18,3.21
+110,Urban Wellness Professionals,1.27,1.93,2.57,3.5
+111,On-the-go Commuters,0.96,1.56,2.21,2.64
+112,Students & Budget-Conscious,0.6,1.38,1.82,1.88
+113,Students & Budget-Conscious,0.77,1.21,1.41,2.28
+114,Urban Wellness Professionals,1.18,1.71,2.79,3.46
+115,Students & Budget-Conscious,0.65,1.14,2.07,2.23
+116,On-the-go Commuters,1.03,1.58,2.04,3.21
+117,Fitness & Gym-Goers,0.99,1.57,2.55,2.82
+118,On-the-go Commuters,0.92,1.34,2.31,2.98
+119,On-the-go Commuters,0.93,1.27,1.94,2.71
+120,Urban Wellness Professionals,1.17,1.98,2.85,3.5
+121,Urban Wellness Professionals,1.39,1.98,2.78,3.5
+122,Students & Budget-Conscious,0.71,1.24,1.59,2.33
+123,On-the-go Commuters,0.82,1.18,2.0,2.23
+124,Urban Wellness Professionals,1.28,1.78,2.95,3.44
+125,Students & Budget-Conscious,0.63,1.21,1.76,2.15
+126,Students & Budget-Conscious,0.76,1.22,1.63,2.31
+127,Urban Wellness Professionals,1.33,1.65,2.67,3.36
+128,On-the-go Commuters,0.87,1.56,1.98,2.82
+129,On-the-go Commuters,0.95,1.14,2.23,2.45
+130,On-the-go Commuters,0.93,1.46,1.75,2.82
+131,On-the-go Commuters,0.91,1.32,1.8,2.85
+132,Students & Budget-Conscious,0.66,1.16,1.71,1.99
+133,Urban Wellness Professionals,0.87,1.84,2.56,3.3
+134,Students & Budget-Conscious,0.94,0.97,1.5,2.38
+135,Urban Wellness Professionals,1.04,1.8,2.8,3.58
+136,Fitness & Gym-Goers,0.79,1.55,2.54,2.95
+137,Students & Budget-Conscious,0.64,1.17,1.8,2.02
+138,Urban Wellness Professionals,1.23,1.84,2.95,3.38
+139,On-the-go Commuters,0.9,1.31,1.72,2.79
+140,Fitness & Gym-Goers,1.1,1.52,2.52,3.24
+141,Fitness & Gym-Goers,1.13,1.75,2.69,3.37
+142,Fitness & Gym-Goers,0.95,1.61,2.7,3.27
+143,Urban Wellness Professionals,1.13,1.74,2.86,3.59
+144,Students & Budget-Conscious,0.92,1.11,1.4,2.38
+145,Urban Wellness Professionals,1.28,1.93,3.0,3.41
+146,Fitness & Gym-Goers,0.83,1.66,2.59,3.1
+147,Students & Budget-Conscious,0.59,0.93,1.74,2.31
+148,Urban Wellness Professionals,0.93,1.96,2.49,3.59
+149,Students & Budget-Conscious,0.6,1.03,1.76,2.69
+150,Students & Budget-Conscious,0.79,1.17,2.0,2.08
+151,Urban Wellness Professionals,1.3,1.84,2.95,3.03
+152,Fitness & Gym-Goers,1.15,1.7,2.2,3.14
+153,Urban Wellness Professionals,1.16,1.82,2.64,3.66
+154,Students & Budget-Conscious,0.78,1.18,1.72,1.99
+155,Students & Budget-Conscious,0.72,1.15,1.7,2.22
+156,On-the-go Commuters,0.92,1.48,2.22,2.62
+157,Students & Budget-Conscious,0.66,1.07,1.92,2.17
+158,Students & Budget-Conscious,0.78,1.16,2.02,2.15
+159,On-the-go Commuters,0.79,1.39,1.94,2.82
+160,Students & Budget-Conscious,0.64,0.97,1.88,2.03
+161,Urban Wellness Professionals,1.19,1.76,2.85,3.25
+162,On-the-go Commuters,0.96,1.41,2.06,2.61
+163,Fitness & Gym-Goers,1.07,1.56,2.55,3.42
+164,Students & Budget-Conscious,0.62,0.62,1.07,2.18
+165,Fitness & Gym-Goers,0.79,1.55,2.39,3.13
+166,Students & Budget-Conscious,0.49,0.84,2.0,2.28
+167,Fitness & Gym-Goers,1.02,2.1,2.1,2.75
+168,Fitness & Gym-Goers,1.04,1.59,2.83,3.13
+169,Urban Wellness Professionals,1.33,1.59,2.98,3.33
+170,Urban Wellness Professionals,1.24,1.9,3.03,3.61
+171,Urban Wellness Professionals,1.36,1.89,2.22,3.65
+172,On-the-go Commuters,0.9,1.23,2.45,2.51
+173,On-the-go Commuters,0.78,1.4,2.04,2.91
+174,Fitness & Gym-Goers,0.94,1.44,2.21,3.07
+175,Urban Wellness Professionals,1.3,1.87,2.4,3.63
+176,On-the-go Commuters,1.21,1.5,2.42,2.83
+177,Fitness & Gym-Goers,0.93,1.56,2.64,3.22
+178,Fitness & Gym-Goers,1.04,1.51,2.7,2.86
+179,Urban Wellness Professionals,1.04,1.83,2.83,3.39
+180,Students & Budget-Conscious,0.93,1.33,1.52,2.33
+181,Urban Wellness Professionals,1.29,1.84,2.68,3.4
+182,Fitness & Gym-Goers,1.09,1.7,2.02,2.94
+183,Students & Budget-Conscious,0.73,1.28,2.03,2.16
+184,Students & Budget-Conscious,0.77,0.84,1.83,2.17
+185,Students & Budget-Conscious,0.89,1.13,1.56,2.27
+186,Students & Budget-Conscious,0.75,1.18,2.04,2.41
+187,Urban Wellness Professionals,1.12,1.84,2.89,3.4
+188,Students & Budget-Conscious,0.79,0.99,1.85,2.15
+189,Students & Budget-Conscious,0.82,1.03,1.35,2.1
+190,On-the-go Commuters,0.65,1.52,1.75,2.51
+191,Fitness & Gym-Goers,1.05,1.53,2.45,2.81
+192,Students & Budget-Conscious,0.58,0.85,1.65,1.78
+193,Fitness & Gym-Goers,1.24,1.62,2.71,2.99
+194,Urban Wellness Professionals,1.24,1.57,2.76,3.84
+195,On-the-go Commuters,1.11,1.29,1.9,2.46
+196,Fitness & Gym-Goers,1.18,1.65,2.61,3.4
+197,On-the-go Commuters,0.82,1.33,2.12,2.83
+198,Fitness & Gym-Goers,1.1,1.55,2.38,3.23
+199,Urban Wellness Professionals,1.22,1.72,2.04,3.49
+200,Urban Wellness Professionals,1.06,2.02,2.31,3.76
+201,Urban Wellness Professionals,1.31,1.72,2.61,3.69
+202,Students & Budget-Conscious,0.6,1.14,1.53,1.91
+203,Fitness & Gym-Goers,0.91,1.25,2.57,3.03
+204,Students & Budget-Conscious,0.72,1.03,2.15,2.24
+205,Students & Budget-Conscious,0.69,0.88,1.42,2.1
+206,Urban Wellness Professionals,1.25,1.58,2.87,3.37
+207,On-the-go Commuters,0.83,1.37,2.27,2.39
+208,Urban Wellness Professionals,1.23,1.63,3.03,3.32
+209,On-the-go Commuters,0.66,1.61,2.14,2.43
+210,Students & Budget-Conscious,0.63,0.98,1.91,2.05
+211,Fitness & Gym-Goers,1.25,1.6,2.54,3.1
+212,On-the-go Commuters,0.97,1.24,2.08,2.5
+213,Students & Budget-Conscious,0.58,1.02,1.5,2.11
+214,Fitness & Gym-Goers,0.96,1.62,2.68,2.99
+215,On-the-go Commuters,0.74,1.54,1.95,2.8
+216,Students & Budget-Conscious,0.71,1.32,1.76,2.27
+217,Fitness & Gym-Goers,0.83,1.75,2.82,2.88
+218,Students & Budget-Conscious,0.67,1.15,1.72,2.2
+219,On-the-go Commuters,0.99,1.56,1.57,2.53
+220,Fitness & Gym-Goers,1.18,1.63,2.77,3.06
+221,On-the-go Commuters,0.96,1.59,2.11,2.83
+222,On-the-go Commuters,0.86,1.12,1.98,2.81
+223,Students & Budget-Conscious,0.75,1.13,2.26,2.28
+224,On-the-go Commuters,1.1,1.61,2.17,2.77
+225,Students & Budget-Conscious,0.71,1.14,1.79,1.94
+226,Students & Budget-Conscious,0.86,1.25,1.49,2.32
+227,Fitness & Gym-Goers,1.02,1.74,2.71,2.89
+228,Urban Wellness Professionals,1.24,1.9,3.03,3.31
+229,Fitness & Gym-Goers,1.03,1.53,2.39,3.26
+230,On-the-go Commuters,0.88,1.38,1.94,2.67
+231,Students & Budget-Conscious,0.57,0.98,1.35,2.15
+232,Students & Budget-Conscious,0.52,1.33,1.8,2.21
+233,Students & Budget-Conscious,0.67,1.02,1.67,2.34
+234,Students & Budget-Conscious,0.64,0.88,1.33,2.27
+235,Urban Wellness Professionals,1.45,1.68,2.79,3.64
+236,On-the-go Commuters,0.83,1.01,2.37,2.93
+237,Fitness & Gym-Goers,1.03,1.68,2.45,2.86
+238,Urban Wellness Professionals,1.11,1.72,2.75,3.59
+239,Urban Wellness Professionals,1.22,1.92,3.09,3.25
+240,Urban Wellness Professionals,1.42,1.55,2.79,3.72
+241,Fitness & Gym-Goers,1.2,1.33,2.29,3.05
+242,Students & Budget-Conscious,0.74,0.94,1.75,2.34
+243,Students & Budget-Conscious,0.64,1.15,1.68,2.22
+244,Fitness & Gym-Goers,0.97,1.49,2.33,3.01
+245,Students & Budget-Conscious,0.78,1.14,1.72,2.34
+246,Fitness & Gym-Goers,0.93,1.24,2.6,2.78
+247,Fitness & Gym-Goers,0.88,1.41,2.15,3.25
+248,Students & Budget-Conscious,0.82,1.14,1.84,2.24
+249,Students & Budget-Conscious,0.53,1.15,1.57,2.1
+250,Students & Budget-Conscious,0.9,1.12,1.67,2.18
+251,Urban Wellness Professionals,1.4,2.08,3.03,3.55
+252,Urban Wellness Professionals,1.18,1.81,2.42,3.57
+253,Urban Wellness Professionals,1.16,1.91,2.74,3.56
+254,On-the-go Commuters,0.85,1.39,1.92,3.29
+255,Urban Wellness Professionals,1.02,1.53,3.05,3.06
+256,Students & Budget-Conscious,0.73,1.37,2.1,2.72
+257,On-the-go Commuters,0.88,1.28,2.36,2.88
+258,On-the-go Commuters,0.95,1.22,2.4,2.7
+259,Students & Budget-Conscious,0.72,1.06,1.85,2.25
+260,Students & Budget-Conscious,0.61,0.84,1.46,2.42
+261,On-the-go Commuters,0.84,1.35,2.04,2.8
+262,Fitness & Gym-Goers,1.14,1.33,2.3,2.84
+263,Urban Wellness Professionals,1.2,1.96,2.63,3.5
+264,On-the-go Commuters,0.84,1.4,2.12,2.34
+265,Urban Wellness Professionals,1.24,1.69,2.55,3.14
+266,Fitness & Gym-Goers,1.11,1.67,2.56,3.41
+267,Urban Wellness Professionals,1.09,1.9,2.59,3.83
+268,Fitness & Gym-Goers,0.89,1.58,2.79,2.97
+269,Fitness & Gym-Goers,1.02,1.53,2.8,3.45
+270,Urban Wellness Professionals,1.03,1.85,2.85,3.7
+271,Students & Budget-Conscious,0.53,1.2,1.94,2.1
+272,Students & Budget-Conscious,0.63,1.11,1.72,2.22
+273,Urban Wellness Professionals,1.18,1.96,2.61,3.45
+274,Students & Budget-Conscious,0.58,1.05,1.74,2.4
+275,Urban Wellness Professionals,1.12,1.93,2.75,3.54
+276,Urban Wellness Professionals,1.26,1.75,2.84,3.62
+277,Students & Budget-Conscious,0.58,0.98,1.74,2.23
+278,Students & Budget-Conscious,0.74,1.14,1.9,2.01
+279,Students & Budget-Conscious,0.6,1.07,1.92,1.96
+280,Urban Wellness Professionals,1.12,1.86,2.93,3.19
+281,Urban Wellness Professionals,1.23,1.88,2.59,3.23
+282,Students & Budget-Conscious,0.77,1.09,1.92,2.02
+283,Fitness & Gym-Goers,1.1,1.41,2.64,3.38
+284,Students & Budget-Conscious,0.62,1.23,1.98,2.11
+285,Urban Wellness Professionals,1.51,1.84,2.88,3.4
+286,Fitness & Gym-Goers,1.1,1.6,2.48,3.09
+287,On-the-go Commuters,0.85,1.4,2.39,2.73
+288,Students & Budget-Conscious,0.71,1.27,1.7,1.81
+289,Students & Budget-Conscious,0.73,0.96,1.5,2.2
+290,Urban Wellness Professionals,1.14,1.69,2.43,3.6
+291,Urban Wellness Professionals,1.12,1.95,2.58,3.11
+292,On-the-go Commuters,0.8,1.4,1.81,2.65
+293,Students & Budget-Conscious,0.62,1.15,1.88,2.18
+294,Students & Budget-Conscious,0.53,0.98,1.57,2.25
+295,Students & Budget-Conscious,0.79,1.02,1.81,2.3
+296,Fitness & Gym-Goers,0.74,1.5,2.9,3.05
+297,Students & Budget-Conscious,0.78,1.02,1.56,2.45
+298,On-the-go Commuters,0.88,1.49,1.82,2.53
+299,On-the-go Commuters,1.04,1.58,1.77,2.53
+300,Urban Wellness Professionals,1.2,1.8,2.89,3.44

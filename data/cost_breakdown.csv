@@ -1,0 +1,8 @@
+cost_component,cost_per_unit_eur,pct_of_total
+Ingredients (green tea caffeine + adaptogens),0.21,33.9
+Can & packaging,0.14,22.6
+Co-packing / production,0.15,24.2
+Freight & logistics,0.07,11.3
+Germany import duty & compliance allowance,0.05,8.1
+TOTAL COGS per unit (330ml can),0.62,100.0
+"[KPI, not a cost line] Current blended gross margin, home markets (avg retail EUR1.35, blended channel mix, net price EUR0.886 — see channel_economics.csv)",30.0,

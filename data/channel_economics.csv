@@ -1,0 +1,7 @@
+channel,illustrative_retail_price_eur,retailer_margin_pct,distributor_cut_pct,payment_processing_pct,fulfillment_cost_eur,net_price_to_lumen_eur,unit_contribution_eur
+DTC Online,1.35,0.0,0.0,0.029,0.35,0.96,0.34
+DTC Online,2.19,0.0,0.0,0.029,0.35,1.78,1.16
+Retail/Grocery,1.35,0.35,0.08,0.0,0.0,0.77,0.15
+Retail/Grocery,2.19,0.35,0.08,0.0,0.0,1.25,0.63
+Gym & Office,1.35,0.2,0.0,0.0,0.0,1.08,0.46
+Gym & Office,2.19,0.2,0.0,0.0,0.0,1.75,1.13

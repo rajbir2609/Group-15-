@@ -1,0 +1,37 @@
+dimension_type,name,metric,value,unit,year,notes
+subcategory,Energy / focus,market_size_eur,1943857000,EUR,2022,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Energy / focus,market_size_eur,2079926990,EUR,2023,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Energy / focus,market_size_eur,2225521880,EUR,2024,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Energy / focus,market_size_eur,2381308411,EUR,2025,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Energy / focus,market_size_eur,2548000000,EUR,2026,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Energy / focus,market_size_eur,2726360000,EUR,2027,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Hydration,market_size_eur,2152127393,EUR,2022,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Hydration,market_size_eur,2302776311,EUR,2023,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Hydration,market_size_eur,2463970652,EUR,2024,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Hydration,market_size_eur,2636448598,EUR,2025,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Hydration,market_size_eur,2821000000,EUR,2026,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Hydration,market_size_eur,3018470000,EUR,2027,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Plant-based / adaptogenic,market_size_eur,1666163143,EUR,2022,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Plant-based / adaptogenic,market_size_eur,1782794563,EUR,2023,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Plant-based / adaptogenic,market_size_eur,1907590183,EUR,2024,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Plant-based / adaptogenic,market_size_eur,2041121495,EUR,2025,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Plant-based / adaptogenic,market_size_eur,2184000000,EUR,2026,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Plant-based / adaptogenic,market_size_eur,2336880000,EUR,2027,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Other functional,market_size_eur,1180198893,EUR,2022,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Other functional,market_size_eur,1262812816,EUR,2023,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Other functional,market_size_eur,1351209713,EUR,2024,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Other functional,market_size_eur,1445794393,EUR,2025,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Other functional,market_size_eur,1547000000,EUR,2026,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+subcategory,Other functional,market_size_eur,1655290000,EUR,2027,"Germany functional beverage market ~EUR9.1bn 2026, ~7% CAGR (Market Research Future / Fortune Business Insights)"
+region,Berlin,population_share_of_market,0.18,ratio,2026,Illustrative regional split used to size a phased city-by-city launch
+region,Berlin,regional_cagr,0.09,ratio,2026,Berlin/Munich assumed slightly faster given urban wellness segment concentration
+region,Munich,population_share_of_market,0.15,ratio,2026,Illustrative regional split used to size a phased city-by-city launch
+region,Munich,regional_cagr,0.09,ratio,2026,Berlin/Munich assumed slightly faster given urban wellness segment concentration
+region,Hamburg,population_share_of_market,0.1,ratio,2026,Illustrative regional split used to size a phased city-by-city launch
+region,Hamburg,regional_cagr,0.07,ratio,2026,Berlin/Munich assumed slightly faster given urban wellness segment concentration
+region,Cologne,population_share_of_market,0.09,ratio,2026,Illustrative regional split used to size a phased city-by-city launch
+region,Cologne,regional_cagr,0.07,ratio,2026,Berlin/Munich assumed slightly faster given urban wellness segment concentration
+region,Frankfurt,population_share_of_market,0.08,ratio,2026,Illustrative regional split used to size a phased city-by-city launch
+region,Frankfurt,regional_cagr,0.07,ratio,2026,Berlin/Munich assumed slightly faster given urban wellness segment concentration
+region,Other Germany,population_share_of_market,0.4,ratio,2026,Illustrative regional split used to size a phased city-by-city launch
+region,Other Germany,regional_cagr,0.07,ratio,2026,Berlin/Munich assumed slightly faster given urban wellness segment concentration
