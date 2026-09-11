@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LUMEN | Channel efficiency</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="cockpit">
+      <header class="page-header">
+        <p class="eyebrow">LUMEN · Germany launch cockpit</p>
+        <h1>Channel efficiency</h1>
+        <p class="lede">Compare the full 18-month acquisition funnel before choosing where to invest Germany launch spend.</p>
+      </header>
+
+      <section class="controls" aria-label="Channel selection">
+        <label for="channel-select">Acquisition channel</label>
+        <select id="channel-select" disabled>
+          <option>Loading channel data…</option>
+        </select>
+        <p id="period" class="period"></p>
+      </section>
+
+      <section id="status-card" class="status-card" aria-live="polite">
+        <div>
+          <p class="metric-label">LTV:CAC ratio</p>
+          <p id="ratio" class="ratio">—</p>
+          <p id="ratio-detail" class="ratio-detail">Loading the 18-month channel history…</p>
+        </div>
+        <span id="status-pill" class="status-pill">Loading</span>
+      </section>
+
+      <section class="metrics" aria-label="Blended channel metrics">
+        <article class="metric-card">
+          <p>Blended CAC</p>
+          <strong id="cac">—</strong>
+          <small>Total spend ÷ acquired customers</small>
+        </article>
+        <article class="metric-card">
+          <p>Estimated LTV</p>
+          <strong id="ltv">—</strong>
+          <small>Customer-weighted across 18 months</small>
+        </article>
+        <article class="metric-card">
+          <p>Marketing spend</p>
+          <strong id="spend">—</strong>
+          <small id="customer-count">— customers acquired</small>
+        </article>
+      </section>
+
+      <section class="funnel-section" aria-labelledby="funnel-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">18-month acquisition funnel</p>
+            <h2 id="funnel-title">Reach to conversion</h2>
+          </div>
+          <p id="conversion-rate" class="conversion-rate">—</p>
+        </div>
+        <div class="funnel" aria-label="Reach, engagements, and conversions">
+          <article class="funnel-step reach"><span>Reach</span><strong id="reach">—</strong><small>100% of reached audience</small></article>
+          <article class="funnel-step engagement"><span>Engagements</span><strong id="engagements">—</strong><small id="engagement-rate">— of reach</small></article>
+          <article class="funnel-step conversion"><span>Customers acquired</span><strong id="conversions">—</strong><small id="conversion-step-rate">— of engagements</small></article>
+        </div>
+      </section>
+
+      <section class="cost-context" aria-label="Unit cost context">
+        <div><p class="eyebrow">Cost context</p><h2>Unit economics baseline</h2></div>
+        <p><strong id="cogs">—</strong> COGS per 330ml can · <strong id="gross-margin">—</strong> current blended gross margin</p>
+      </section>
+
+      <p class="source-note">Source: LUMEN’s <code>marketing_funnel_monthly.csv</code> (all 18 observed months per channel) and <code>cost_breakdown.csv</code>. Historical figures are from home markets, not German sales.</p>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
