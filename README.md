@@ -46,4 +46,4 @@ These questions aren't here to slow you down — they're part of what's being ev
 
 ## Our Approach
 
-*[To be filled in by the team at the end.]*
+We built the LUMEN Germany Launch Cockpit to make the launch decision tangible: Freya can select each of the three tested retail prices and inspect its estimated acceptance, contribution and channel economics without hiding them in a blended score. The recommendation favours a €2.19 launch through DTC Online and Gym & Office in June–July, while stating the trade-off clearly: it prioritises a more defensible payback path over the widest possible early acceptance, without abandoning premium cues. All German outcome claims are labelled as estimates; the tool uses no names or emails from the customer survey.

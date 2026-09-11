@@ -3,73 +3,122 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>LUMEN | Channel efficiency</title>
+    <title>LUMEN Germany Launch Cockpit</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <main class="cockpit">
-      <header class="page-header">
-        <p class="eyebrow">LUMEN · Germany launch cockpit</p>
-        <h1>Channel efficiency</h1>
-        <p class="lede">Compare the full 18-month acquisition funnel before choosing where to invest Germany launch spend.</p>
+    <main>
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Strategy &amp; Analytics / Germany entry</p>
+          <h1>LUMEN <em>Germany</em><br />Launch Cockpit</h1>
+          <p class="subtitle">A transparent decision view for Freya Lindqvist, Head of Growth.</p>
+        </div>
+        <div class="decision-badge"><span>Decision deadline</span><strong>Tomorrow<br />morning</strong></div>
       </header>
 
-      <section class="controls" aria-label="Channel selection">
-        <label for="channel-select">Acquisition channel</label>
-        <select id="channel-select" disabled>
-          <option>Loading channel data…</option>
-        </select>
-        <p id="period" class="period"></p>
+      <section class="notice" aria-label="Evidence caveat">
+        <span class="notice-dot"></span>
+        <p><strong>Evidence, not a forecast.</strong> LUMEN has no German sales history. Acceptance and contribution are estimated from the German price test; CAC/LTV context comes from NL/DK/SE. No respondent-level data is used.</p>
       </section>
 
-      <section id="status-card" class="status-card" aria-live="polite">
+      <section class="controls" aria-label="Decision controls">
         <div>
-          <p class="metric-label">LTV:CAC ratio</p>
-          <p id="ratio" class="ratio">—</p>
-          <p id="ratio-detail" class="ratio-detail">Loading the 18-month channel history…</p>
-        </div>
-        <span id="status-pill" class="status-pill">Loading</span>
-      </section>
-
-      <section class="metrics" aria-label="Blended channel metrics">
-        <article class="metric-card">
-          <p>Blended CAC</p>
-          <strong id="cac">—</strong>
-          <small>Total spend ÷ acquired customers</small>
-        </article>
-        <article class="metric-card">
-          <p>Estimated LTV</p>
-          <strong id="ltv">—</strong>
-          <small>Customer-weighted across 18 months</small>
-        </article>
-        <article class="metric-card">
-          <p>Marketing spend</p>
-          <strong id="spend">—</strong>
-          <small id="customer-count">— customers acquired</small>
-        </article>
-      </section>
-
-      <section class="funnel-section" aria-labelledby="funnel-title">
-        <div class="section-heading">
-          <div>
-            <p class="eyebrow">18-month acquisition funnel</p>
-            <h2 id="funnel-title">Reach to conversion</h2>
+          <p class="section-label">1 / Choose retail price</p>
+          <div class="price-picker" role="radiogroup" aria-label="Candidate launch price">
+            <button class="price-option" data-price="1.79" role="radio" aria-checked="false"><strong>€1.79</strong><span>Access play</span></button>
+            <button class="price-option active" data-price="2.19" role="radio" aria-checked="true"><strong>€2.19</strong><span>Balanced case</span></button>
+            <button class="price-option" data-price="2.59" role="radio" aria-checked="false"><strong>€2.59</strong><span>Premium signal</span></button>
           </div>
-          <p id="conversion-rate" class="conversion-rate">—</p>
         </div>
-        <div class="funnel" aria-label="Reach, engagements, and conversions">
-          <article class="funnel-step reach"><span>Reach</span><strong id="reach">—</strong><small>100% of reached audience</small></article>
-          <article class="funnel-step engagement"><span>Engagements</span><strong id="engagements">—</strong><small id="engagement-rate">— of reach</small></article>
-          <article class="funnel-step conversion"><span>Customers acquired</span><strong id="conversions">—</strong><small id="conversion-step-rate">— of engagements</small></article>
+        <div class="control-summary">
+          <p class="section-label">Recommended launch mix</p>
+          <strong>DTC Online + Gym &amp; Office</strong>
+          <span>Retail/Grocery after demand validation</span>
         </div>
       </section>
 
-      <section class="cost-context" aria-label="Unit cost context">
-        <div><p class="eyebrow">Cost context</p><h2>Unit economics baseline</h2></div>
-        <p><strong id="cogs">—</strong> COGS per 330ml can · <strong id="gross-margin">—</strong> current blended gross margin</p>
+      <section class="recommendation" aria-live="polite">
+        <div>
+          <p class="section-label">Recommendation for the current selection</p>
+          <h2 id="recommendation-title">€2.19 through DTC Online + Gym &amp; Office</h2>
+          <p id="recommendation-copy"></p>
+        </div>
+        <div class="launch-window">
+          <span>Suggested launch window</span>
+          <strong>June–July</strong>
+          <small>Seasonality index 132–138<br />German demand indicator</small>
+        </div>
       </section>
 
-      <p class="source-note">Source: LUMEN’s <code>marketing_funnel_monthly.csv</code> (all 18 observed months per channel) and <code>cost_breakdown.csv</code>. Historical figures are from home markets, not German sales.</p>
+      <section class="metrics" aria-label="Selected price headline metrics">
+        <article><span>Estimated acceptance</span><strong id="acceptance">51.7%</strong><small>German price test / Exhibit 11</small></article>
+        <article><span>Best unit contribution</span><strong id="best-contribution">€1.16</strong><small id="best-channel">DTC Online / Exhibit 11</small></article>
+        <article><span>CMO ↔ CFO lean</span><strong id="stakeholder">CFO-leaning</strong><small id="stakeholder-note">without abandoning premium cues</small></article>
+      </section>
+
+      <section class="grid">
+        <article class="panel channel-panel">
+          <div class="panel-heading">
+            <div><p class="section-label">2 / Channel-by-channel consequences</p><h2>Selected price: <span id="selected-price">€2.19</span></h2></div>
+            <span class="source-tag">Estimated / Exhibit 11</span>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead><tr><th>Channel</th><th>Acceptance</th><th>Net to LUMEN</th><th>Unit contribution</th><th>Contribution margin</th></tr></thead>
+              <tbody id="price-test-rows"></tbody>
+            </table>
+          </div>
+          <p class="footnote">Acceptance and contribution are channel-level price-test estimates, not German sales actuals. Prices are intentionally not blended.</p>
+        </article>
+
+        <article class="panel tradeoff-panel">
+          <p class="section-label">3 / The trade-off, made explicit</p>
+          <h2 id="tradeoff-heading">A margin-first, still-accessible launch</h2>
+          <div class="balance" aria-label="CMO to CFO trade-off scale"><span>CMO: premium positioning</span><div class="track"><i id="balance-marker"></i></div><span>CFO: faster payback</span></div>
+          <p id="tradeoff-copy"></p>
+          <div class="give-up"><span>Deliberately traded away</span><strong id="give-up-copy"></strong></div>
+        </article>
+
+        <article class="panel positioning-panel">
+          <div class="panel-heading">
+            <div><p class="section-label">4 / Competitive price positioning</p><h2>Where LUMEN sits on shelf</h2></div>
+            <span class="source-tag">Bands / Exhibit 2</span>
+          </div>
+          <p class="positioning-intro" id="positioning-intro"></p>
+          <div class="positioning-scale" aria-label="Competitor price positioning chart">
+            <div class="scale-label scale-left">€0.80<br /><span>Mass-market</span></div>
+            <div class="scale-label scale-right">€3.20<br /><span>Premium</span></div>
+            <div class="price-grid" id="positioning-chart"></div>
+          </div>
+          <p class="footnote">Bands are the observed minimum and maximum competitor prices across channels and formats in Exhibit 2. The LUMEN marker follows the selected candidate price; it is not an average.</p>
+        </article>
+
+        <article class="panel economics-panel">
+          <div class="panel-heading">
+            <div><p class="section-label">5 / Net-of-cuts economics</p><h2>What LUMEN keeps</h2></div>
+            <span class="source-tag">Reference / Exhibit 9</span>
+          </div>
+          <div id="economics-cards" class="economics-cards"></div>
+          <p class="footnote">Exhibit 9 provides its channel economics at a €2.19 reference retail price. The selected-price table above is the appropriate per-channel estimate for €1.79 and €2.59.</p>
+        </article>
+
+        <article class="panel evidence-panel">
+          <p class="section-label">6 / Why June–July?</p>
+          <h2>Enter when category demand is strongest</h2>
+          <div class="seasonality" id="seasonality-bars" aria-label="German seasonality index by month"></div>
+          <div class="legend"><span><i></i> German seasonality index</span><span>Peak: July (138)</span></div>
+          <p class="footnote">Timing is a directional estimate from German seasonality and weather data (Exhibit 12), not a promise of German sales.</p>
+        </article>
+      </section>
+
+      <footer>
+        <p><strong>Decision logic:</strong> launch at €2.19 through DTC Online and Gym &amp; Office, timed for June–July. Use Retail/Grocery only after validating repeat demand and retailer economics.</p>
+        <p>Local prototype · No accounts · No database · No customer names or emails</p>
+      </footer>
     </main>
     <script src="app.js"></script>
   </body>
