@@ -34,10 +34,15 @@
             <button class="price-option" data-price="2.59" role="radio" aria-checked="false"><strong>€2.59</strong><span>Premium signal</span></button>
           </div>
         </div>
-        <div class="control-summary">
-          <p class="section-label">Recommended launch mix</p>
-          <strong>DTC Online + Gym &amp; Office</strong>
-          <span>Retail/Grocery after demand validation</span>
+        <div class="control-summary decision-picks">
+          <label for="channel-select">
+            <p class="section-label">Acquisition channel</p>
+            <select id="channel-select" disabled><option>Loading channel data…</option></select>
+          </label>
+          <label for="timing-select">
+            <p class="section-label">Launch timing</p>
+            <select id="timing-select" disabled><option>Loading seasonality…</option></select>
+          </label>
         </div>
       </section>
 
@@ -49,8 +54,8 @@
         </div>
         <div class="launch-window">
           <span>Suggested launch window</span>
-          <strong>June–July</strong>
-          <small>Seasonality index 132–138<br />German demand indicator</small>
+          <strong id="suggested-window">—</strong>
+          <small id="suggested-window-detail">From Exhibit 12 monthly pattern</small>
         </div>
       </section>
 
@@ -106,17 +111,77 @@
           <p class="footnote">Exhibit 9 provides its channel economics at a €2.19 reference retail price. The selected-price table above is the appropriate per-channel estimate for €1.79 and €2.59.</p>
         </article>
 
+        <article class="panel funnel-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="section-label">6 / 18-month acquisition economics</p>
+              <h2>Funnel, blended CAC and LTV:CAC</h2>
+            </div>
+            <span class="source-tag">Exhibits 7 + 8</span>
+          </div>
+          <div class="status-card" id="status-card">
+            <p class="metric-label">LTV:CAC vs 3:1 target</p>
+            <strong id="ratio">—</strong>
+            <p id="ratio-detail" class="ratio-detail">Loading the 18-month channel history…</p>
+            <span id="status-pill" class="status-pill">—</span>
+          </div>
+          <div class="funnel" aria-label="Reach, engagements, and conversions">
+            <article class="funnel-step reach"><span>Reach</span><strong id="reach">—</strong><small>100% of reached audience</small></article>
+            <article class="funnel-step engagement"><span>Engagements</span><strong id="engagements">—</strong><small id="engagement-rate">— of reach</small></article>
+            <article class="funnel-step conversion"><span>Customers acquired</span><strong id="conversions">—</strong><small id="conversion-step-rate">— of engagements</small></article>
+          </div>
+          <div class="kpi-grid funnel-kpis">
+            <article><span>Blended CAC</span><b id="cac">—</b></article>
+            <article><span>Estimated LTV</span><b id="ltv">—</b></article>
+            <article><span>Spend</span><b id="spend">—</b></article>
+            <article><span>Unit COGS</span><b id="cogs">—</b></article>
+            <article><span>Home-market GM</span><b id="gross-margin">—</b></article>
+          </div>
+          <p class="footnote" id="funnel-period">Source: marketing_funnel_monthly.csv (all observed months) and cost_breakdown.csv. Home-market history, not German sales.</p>
+        </article>
+
         <article class="panel evidence-panel">
-          <p class="section-label">6 / Why June–July?</p>
-          <h2>Enter when category demand is strongest</h2>
-          <div class="seasonality" id="seasonality-bars" aria-label="German seasonality index by month"></div>
-          <div class="legend"><span><i></i> German seasonality index</span><span>Peak: July (138)</span></div>
-          <p class="footnote">Timing is a directional estimate from German seasonality and weather data (Exhibit 12), not a promise of German sales.</p>
+          <div class="panel-heading">
+            <div>
+              <p class="section-label">7 / When to launch</p>
+              <h2>Seasonality next to German temperature</h2>
+            </div>
+            <span class="source-tag">Exhibit 12</span>
+          </div>
+          <div class="season-bars" id="seasonality-bars" aria-label="Monthly demand seasonality and average German temperature"></div>
+          <p class="legend"><span><i class="demand"></i> demand index (100 = average)</span><span><i class="temp"></i> avg. German temperature</span></p>
+          <p class="insight" id="seasonality-note">Loading monthly pattern…</p>
+          <p class="footnote">This is a suggestion with the monthly evidence shown, not a single hard month name. Timing is directional, not a promise of German sales.</p>
+        </article>
+
+        <article class="panel tension-panel">
+          <div class="panel-heading">
+            <div>
+              <p class="section-label">8 / Qual vs quant</p>
+              <h2>Where quotes and the survey agree — or do not</h2>
+            </div>
+            <span class="source-tag">Exhibits 4 + 5</span>
+          </div>
+          <div class="tension-grid" id="tension-grid"></div>
+          <p class="footnote">Survey averages are segment-level only. Names and emails from the survey file are not loaded into this view.</p>
         </article>
       </section>
 
+      <section class="panel memo-panel">
+        <div class="panel-heading">
+          <div>
+            <p class="section-label">9 / Generate recommendation</p>
+            <h2>One-page memo from the current selection</h2>
+          </div>
+          <button id="memo-button" type="button">Generate recommendation</button>
+        </div>
+        <div id="memo-output" class="memo-output" aria-live="polite">
+          <p>Choose a price, channel and launch window, then generate a memo Freya could send as-is.</p>
+        </div>
+      </section>
+
       <footer>
-        <p><strong>Decision logic:</strong> launch at €2.19 through DTC Online and Gym &amp; Office, timed for June–July. Use Retail/Grocery only after validating repeat demand and retailer economics.</p>
+        <p id="footer-logic"><strong>Decision logic:</strong> the memo is generated from the price, channel and timing currently selected above — it is not a hardcoded recommendation.</p>
         <p>Local prototype · No accounts · No database · No customer names or emails</p>
       </footer>
     </main>
